@@ -1,6 +1,6 @@
 # Gap synthesis — draft for critical review
 
-**Status: [Claude] first draft, for you and GPT to challenge.** Built from [`DECISIONS.md`](DECISIONS.md), [`SYNTHESIS.md`](SYNTHESIS.md), and [`WORKBOOKS.md`](WORKBOOKS.md). Nothing here is decided.
+**Status: [Claude] draft, revised after review round 1 with GPT (see end of file). Still for critique; nothing locked.** Built from [`DECISIONS.md`](DECISIONS.md), [`SYNTHESIS.md`](SYNTHESIS.md), and [`WORKBOOKS.md`](WORKBOOKS.md). Nothing here is decided.
 
 **Structure (proposed by GPT):** Layer 1 core performance gaps → Layer 2 dependencies and open questions → Layer 3 candidate design targets. Problems, plausible explanations, and proposed fixes are kept in separate columns.
 
@@ -17,7 +17,7 @@
 
 | # | Gap (confirmed problem) | Evidence | Strength | Behavior blocked | Plausible explanations (not confirmed) |
 |---|---|---|---|---|---|
-| **G1** | **Guides check the serial but don't act on the result** | 44% of eligible GC calls with a recorded serial check still ended in generic troubleshooting (Sep 21–30, n=159); Sep 28 Elias "older restart steps before anyone checked the serial"; Sep 24 Guide couldn't locate result, transferred | **Strong** | Appropriate path selected · stop redundant troubleshooting | Can't tell which Orbit value is the result (Sep 22) · Orbit permissions (Sep 24) · no visible next step / what to say (Guide R., item 34) · perceived review pressure to keep troubleshooting (item 31) |
+| **G1** | **Serial check recorded, recovery path not carried out** | Of 204 eligible GC calls Sep 21–30, 159 had a serial check recorded; 70 of those 159 (44%) still ended in generic troubleshooting. A recorded check doesn't prove the Guide saw or understood an Eligible result [GPT] — where the decision broke is unknown; Sep 28 Elias "older restart steps before anyone checked the serial"; Sep 24 Guide couldn't locate result, transferred | **Strong** | Appropriate path selected · stop redundant troubleshooting | Can't tell which Orbit value is the result (Sep 22) · Orbit permissions (Sep 24) · no visible next step / what to say (Guide R., item 34) · perceived review pressure to keep troubleshooting (item 31) |
 | **G2** | **Plus isn't completed or its status isn't closed out** | Plus attached less often than replacement in both queues (GC 37% vs 44% of eligible; Specialist ~84% vs 100%); Dev, Harper, Sep 21–24 calibrations | **Strong** | Plus complete or follow-up opened · clear recap | Two separate transactions (Sep 9) · pending status with no guidance (items 9, 59) · Guide assumes order number = done (Priya, Sep 17) |
 | **G3** | **Pattern not recognized early / serial never checked** | 22% of eligible GC calls had no serial check (Sep 21–30, n=204); Elias's 4-Guide test (1 of 4 landed on old article); Sep 22 customer-language searches failed | **Strong** on the gap; **moderate** on the search cause | Recognition of the pattern · serial eligibility checked | Search ranking and missing customer language (items 11, 24, 61) · "intermittent" title · product not recognized from customer words (item 11) · article reached shifts unevenly (Sep 28) |
 | **G4** | **Plus explained inaccurately** | Guide L. (Sep 13), Micah (Sep 18), Sep 24 call "backup internet while the replacement is on the way"; customer asks if it fixes the drops | **Moderate** (recurring across 11 days, different source types; no data field) | Clear recap · explain accurately | Word of mouth before official guidance (item 8) · Plus genuinely has backup features, easy to overstate (item 13) |
@@ -26,7 +26,7 @@
 | **G7** | **Next contact can't see what was done** | Dev's callback, Sep 20 four-call customer, Sep 22 serial in prior note, Sep 24 managers on sparse notes | **Moderate** (four instances, two source types; no data field) | Continuity across contacts (not in six fields) | No documentation standard (item 53) |
 | **G8** | **Ineligible WN7 calls are long too** | Ineligible WN7-product GC calls ~16 min vs 8 pre-incident (data); Rina, Sofia, Priya on ineligible cases | **Moderate** — length is strong data; cause **unknown** | Appropriate path selected (ordinary path) | Real connectivity problems that take time · Guides unsure whether to stop troubleshooting · customers expecting a replacement after hearing about it |
 
-**Context gap, not a Guide behavior:** Volume. WN7-containing contacts rose to ~39% of answered GC contacts and kept rising after Sep 21. Learning can shorten eligible calls (complete recovery ~11 min vs ~20 generic) but cannot reduce volume; the proactive notice may change volume again (Jules, Oct 1).
+**Context gap, not a Guide behavior:** Volume. WN7-containing contacts (a product-code proxy, not a defect incidence rate) rose to ~39% of answered GC contacts and kept rising after Sep 21. Learning can shorten eligible calls (complete recovery ~11 min vs ~20 generic) but cannot reduce volume; the proactive notice may change volume again (Jules, Oct 1).
 
 ---
 
@@ -47,24 +47,29 @@
 
 ---
 
-## Layer 3 — Candidate design targets (not decided)
+## Layer 3 — Candidate design targets (not decided; revised in round 1)
 
-| Target | Audience | Observable behavior | Closes | Format options (open) | Next week? |
+**Separate two questions [GPT]:**
+- **What behavior most needs to change?** Guides consistently interpret the eligibility result and carry out the appropriate path — recovery with both transactions (or documented follow-up), or ordinary support — and explain it accurately.
+- **What enables that change at scale?** Verified operational guidance, Lead calibration, in-call support, targeted practice, and Quality feedback.
+
+### One end-to-end Guide target [GPT; replaces T1–T3]
+Recognize the pattern → verify eligibility → choose the path → complete the applicable actions → explain and document the outcome.
+- Closes G1–G5, G7, G8. T1–T3 from the first draft stay as **diagnostic lenses** for where a call breaks, not separate targets.
+- Practice covers the whole call, including **ineligible** and **pending-Plus** cases, so eligible recovery isn't optimized into "every WN7 is a replacement" [GPT; Sofia, Rina, Priya].
+
+### Enabling components (rollout sequence, not problem ranking)
+
+| Order | Component | Audience | Observable outcome | Format options (open) | Next week? |
 |---|---|---|---|---|---|
-| **T1** Act on the result | Guides | After a serial check: take the recovery path if Eligible, ordinary support if not — and stop the restart loop | G1, G8 | Decision practice with eligible / ineligible / pending cases (Imani's format, Rina's ask); in-call prompt | Yes (practice); screen detail pending |
-| **T2** Close both transactions and explain Plus | Guides | Plus complete or follow-up opened; Plus described accurately; recap with confirmation number, shipping, Plus status | G2, G4, G7 | Short in-call reference; model calls (Sep 24 pending, Sep 16); wording from Nina Sep 21 + Specialist Sep 12 | Yes, except pending wording (draft for approval) |
-| **T3** Recognize early, impact first | Guides | Hear impact → recognize pattern → get serial early (app, hub, or prior note) | G3, G5 | Ben's cue + Imani's reminder; one-sentence transition practice | Yes (cue); search fix runs in parallel |
-| **T4** Calibrate Leads | Leads (18 GC + Specialist) | Leads recognize the same six behaviors, coach from a clip with a cue, listen to one call | G6 (and reinforces T1–T3) | Cue + de-identified clips (Elias offered) + one call listen (Priya's "smallest manager behavior"); optional short Sana readiness check | Yes |
-| **T5** Partner asks (Learning drafts, others own) | Product Ops, Care Systems, Knowledge Ops, Quality, Workforce | Decisions made on pending Plus, screen reference, permissions, search terms, rubric, capacity | Dependencies | One-page owner list for Dana (her "what each would need to own") | Yes (the list itself) |
+| 1 (parallel) | **Operational readiness** — partner asks | Product Ops, Care Systems, Knowledge Ops, Quality, Workforce | Owners named for pending Plus, screen reference, permissions, search terms, rubric, capacity | One-page owner list for Dana (her "what each would need to own"); Learning drafts, partners approve | Yes (the list) |
+| 2 | **Lead calibration** | Leads (18 GC + Specialist) | Leads recognize the same decisions and coach from a clip with a cue | Common performance model + de-identified clips (Elias offered) + cue + one call listen (Priya's "smallest manager behavior"); optional short Sana readiness check | Yes |
+| 3 | **Guide practice + in-call support** | Guides | The end-to-end target above | Full-call decision practice (Imani's format); concise in-call reference; model calls (Sep 16, Sep 24 pending, Sep 24 ineligible) | Yes, except pending wording (draft for approval) and exact screen |
+| 4 | **Observe and refine** | Quality, Leads | Targeted call listening on the six draft fields, used for coaching and exceptions — **an observation framework, not a scoring rubric** (Priya, Elias, Sep 24) | Small pilot; outcomes beyond completion (repeat calls, complete recovery, handle time, queue impact) | Starts the following week |
 
-**Suggested priority** (for challenge):
-1. **T1** — largest gap in the data, directly tied to handle time and satisfaction.
-2. **T2** — strong evidence, recurs in both queues, causes callbacks.
-3. **T4** — the mechanism that makes T1–T3 stick across centers; small, fits next week.
-4. **T3** — real but partly owned by Knowledge Ops (search).
-5. **T5** — in parallel from day one; it's what Dana asked for on Sep 30.
+**Priority vs. sequence [GPT]:** the eligibility-to-action behavior is the top *problem*; Lead calibration is the first *enablement* step. Not competing positions — this keeps the Lead-anchored approach grounded in the most consequential Guide behavior.
 
----
+**Design question still open [GPT]:** how little can be built while still making this system work?
 
 ## Not targeting, and why
 
@@ -79,3 +84,21 @@
 | Setting the documentation standard or QA rubric | Owned by Care Ops / Quality; Learning aligns to them. |
 | Center-by-center intervention | Data doesn't show meaningful center differences. |
 | Precise ROI or handle-time savings claims | Sample-based, selection effects, Elias: "promising," not causal. An illustrative range at most, labeled. |
+
+---
+
+## Review round 1 — changes and checks
+
+| Change | By | Basis |
+|---|---|---|
+| T1–T3 merged into one end-to-end Guide target; kept as diagnostic lenses | GPT | The Guide experiences one continuous call |
+| Lead calibration moved first in *rollout*; eligibility-to-action stays top *problem* | GPT (supports your Lead-anchored position) | Priority ≠ sequence |
+| Six fields framed as a draft observation framework, not a rubric | GPT | Sep 24 Priya and Elias |
+| G1 reworded: "serial check recorded, recovery path not carried out" | GPT | A recorded check ≠ an understood result |
+| 39% labeled a product-code proxy, not defect incidence | GPT | Data dictionary |
+| Ineligible cases kept in practice explicitly | GPT | Half of WN7-product calls are ineligible |
+
+**Checks run on GPT's challenges [Claude]:**
+- **Denominators for 44%:** 204 eligible General Care calls (Sep 21–30) → 159 with a serial check recorded → 70 ended in generic troubleshooting. 45 had no check.
+- **Is 11 vs. 20 minutes explained by something else?** The gap holds within every cut the data allows: serial-verified calls only (10.9 vs 19.8), WN7 vs WNM-7 (10.9 vs 19.8; 10.8 vs 20.0), each of the four centers (10.6–11.1 vs 19.6–20.0). Generic troubleshooting on eligible calls was ~19.8 min before the path existed too, and Specialist complete recoveries run ~10.1. **But the data has no measure of case complexity** (e.g., the account/address complications in Sep 13), so selection can't be ruled out. Supports the hypothesis; not causal; don't promise nine minutes saved per call. The data is also unusually uniform across cuts, which suggests synthetic precision — another reason to present ranges, not point estimates.
+- **Three vs. four centers:** still unreconciled. The staffing sheet is by queue, not center, so the data can't settle it. Label in any rollout coverage claim.
