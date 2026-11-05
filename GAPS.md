@@ -102,3 +102,26 @@ Recognize the pattern → verify eligibility → choose the path → complete th
 - **Denominators for 44%:** 204 eligible General Care calls (Sep 21–30) → 159 with a serial check recorded → 70 ended in generic troubleshooting. 45 had no check.
 - **Is 11 vs. 20 minutes explained by something else?** The gap holds within every cut the data allows: serial-verified calls only (10.9 vs 19.8), WN7 vs WNM-7 (10.9 vs 19.8; 10.8 vs 20.0), each of the four centers (10.6–11.1 vs 19.6–20.0). Generic troubleshooting on eligible calls was ~19.8 min before the path existed too, and Specialist complete recoveries run ~10.1. **But the data has no measure of case complexity** (e.g., the account/address complications in Sep 13), so selection can't be ruled out. Supports the hypothesis; not causal; don't promise nine minutes saved per call. The data is also unusually uniform across cuts, which suggests synthetic precision — another reason to present ranges, not point estimates.
 - **Three vs. four centers:** still unreconciled. The staffing sheet is by queue, not center, so the data can't settle it. Label in any rollout coverage claim.
+
+---
+
+## Review round 2 — proposed core targets (pending your decision to lock)
+
+GPT reviewed `DECISIONS.md`, `SYNTHESIS.md`, and the revised `GAPS.md`: core performance model holds; uncertainties preserved.
+
+**Proposed core targets [GPT]:**
+1. One end-to-end Guide recovery behavior, practiced with eligible, ineligible, and pending cases.
+2. A common Lead coaching and observation standard.
+3. An in-call reference that helps Guides act without memorizing a speech.
+4. Operational fixes assigned to their actual owners.
+5. A small, capacity-conscious pilot evaluated on complete recovery and call behavior.
+
+Unresolved questions stay explicit dependencies, not reasons to stall.
+
+**Tightening [GPT], with sources added [Claude]:**
+- **Failed action ≠ failed decision.** The 70 checked-but-troubleshot calls may be misinterpretation (Sep 22 screen value), tool unavailability (Sep 24 permissions), or deliberate choice (perceived review pressure, item 31). Lead coaching diagnoses first — Ben: "I need to know what the Guide heard and what they did next" (Sep 24).
+- **Size the pilot; don't promise all Leads next week.** 18 General Care Leads plus Specialist; Workforce hasn't confirmed protected time. State group size and minutes per person (Renee, Sep 19, Oct 1); sample new hires and experienced Guides (item 57).
+- **Define pilot success.** Correct path selected; transactions completed or follow-up opened; outcome explained. Operational checks: repeat calls, complete recovery, handle time, queue impact (Marisol, Oct 1) — checks, not guaranteed savings; "promising," not causal (Elias).
+- **Practice format already exists:** Imani's two-call comparison → one-sentence transition → "what action does it unlock?" (item 54).
+
+**Status:** proposed. Not locked until you decide.
