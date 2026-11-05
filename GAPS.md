@@ -1,6 +1,6 @@
 # Gap synthesis — draft for critical review
 
-**Status: [Claude] draft, revised after review round 1 with GPT (see end of file). Still for critique; nothing locked.** Built from [`DECISIONS.md`](DECISIONS.md), [`SYNTHESIS.md`](SYNTHESIS.md), and [`WORKBOOKS.md`](WORKBOOKS.md). Nothing here is decided.
+**Status: core targets locked (round 2, end of file). Layers 1–3 above are the working evidence behind them.** Built from [`DECISIONS.md`](DECISIONS.md), [`SYNTHESIS.md`](SYNTHESIS.md), and [`WORKBOOKS.md`](WORKBOOKS.md). Nothing here is decided.
 
 **Structure (proposed by GPT):** Layer 1 core performance gaps → Layer 2 dependencies and open questions → Layer 3 candidate design targets. Problems, plausible explanations, and proposed fixes are kept in separate columns.
 
@@ -105,7 +105,7 @@ Recognize the pattern → verify eligibility → choose the path → complete th
 
 ---
 
-## Review round 2 — proposed core targets (pending your decision to lock)
+## Review round 2 — core targets (LOCKED by you, Nov 5, 2026)
 
 GPT reviewed `DECISIONS.md`, `SYNTHESIS.md`, and the revised `GAPS.md`: core performance model holds; uncertainties preserved.
 
@@ -124,4 +124,4 @@ Unresolved questions stay explicit dependencies, not reasons to stall.
 - **Define pilot success.** Correct path selected; transactions completed or follow-up opened; outcome explained. Operational checks: repeat calls, complete recovery, handle time, queue impact (Marisol, Oct 1) — checks, not guaranteed savings; "promising," not causal (Elias).
 - **Practice format already exists:** Imani's two-call comparison → one-sentence transition → "what action does it unlock?" (item 54).
 
-**Status:** proposed. Not locked until you decide.
+**Status:** locked by you. Proposed by GPT; tightening sourced by Claude. Changes from here are new decisions, logged as such.

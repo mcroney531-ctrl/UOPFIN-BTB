@@ -425,3 +425,20 @@ Timeline [Claude]: Aug 31 planned ("recovery tool") → Sep 9 demonstrated ("eli
 - Jules 16:38: notices still in review; if sent, call mix and volume may change.
 - Action notes: Renee models coverage once the proposal has a group size and time; Elias can provide de-identified clips; no format or duration approved.
 - [GPT] Next step: a one-page intervention architecture (audiences, observable behaviors, dependencies, materials, evaluation) before designing anything.
+
+---
+
+## Decisions after discovery
+
+### 64. Workbook pass before setting priorities — `process`
+[Claude] flagged the two workbooks as the biggest remaining gap; [GPT] agreed; [You] approved. Results in `WORKBOOKS.md`: WN7-product mix explains the AHT rise (~39% of answered GC contacts, a product-code proxy); 44% of eligible calls with a recorded serial check still ended in generic troubleshooting (70 of 159); complete recovery ~11 min vs ~20 generic (not causal); center differences not shown; "900 Guides" unreconciled.
+
+### 65. Core targets locked — `position` [You]
+Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
+1. One end-to-end Guide recovery behavior, practiced with eligible, ineligible, and pending cases.
+2. A common Lead coaching and observation standard.
+3. An in-call reference that helps Guides act without memorizing a speech.
+4. Operational fixes assigned to their actual owners.
+5. A small, capacity-conscious pilot evaluated on complete recovery and call behavior.
+- Attribution: targets proposed by [GPT] from [Claude]'s gap draft; Lead-anchored rollout and "why" principle are yours; decision to lock is yours.
+- Priority vs. sequence: eligibility-to-action is the top problem; Lead calibration is the first rollout step.

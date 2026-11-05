@@ -14,4 +14,4 @@ Behind-the-build record for the take-home project built in `TN-UOP-FIN`. This re
 - **[You]** = the candidate · **[GPT]** = ChatGPT · **[Claude]** = Claude Code. Kept separate so the interviewer note can distinguish decisions from suggestions.
 - "Design idea" means considered, not chosen.
 
-**Status:** discovery complete (full chronology read, Jul 8 – Oct 1, 2026 in case time; workbooks checked). Sequence: workbook review → gap synthesis → **critical review (next)** → prioritized intervention architecture → deliverables in `TN-UOP-FIN`.
+**Status:** discovery complete (full chronology read, Jul 8 – Oct 1, 2026 in case time; workbooks checked). Sequence: workbook review → gap synthesis → critical review → **core targets locked** → prioritized intervention architecture (next) → deliverables in `TN-UOP-FIN`.
