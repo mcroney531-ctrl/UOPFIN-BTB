@@ -8,6 +8,7 @@ Behind-the-build record for the take-home project built in `TN-UOP-FIN`. This re
 | [`SYNTHESIS.md`](SYNTHESIS.md) | Threads, design tests, foundations, dependencies with owners, open questions, who did what, corrections |
 | [`WORKBOOKS.md`](WORKBOOKS.md) | Quick quantitative pass over the two Orbit/Quality workbooks, and what it changes in the log |
 | [`GAPS.md`](GAPS.md) | Gap synthesis, dependencies, not-targeting list, and the five locked core targets (end of file) |
+| [`QUOTES.md`](QUOTES.md) | Every flagged quote, chronological, standalone (session + reader notes) |
 | [`ARCHITECTURE.md`](ARCHITECTURE.md) | Draft one-page intervention architecture, for review |
 
 **Conventions**
