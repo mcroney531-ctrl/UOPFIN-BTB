@@ -435,10 +435,16 @@ Timeline [Claude]: Aug 31 planned ("recovery tool") → Sep 9 demonstrated ("eli
 
 ### 65. Core targets locked — `position` [You]
 Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
-1. One end-to-end Guide recovery behavior, practiced with eligible, ineligible, and pending cases.
-2. A common Lead coaching and observation standard.
-3. An in-call reference that helps Guides act without memorizing a speech.
-4. Operational fixes assigned to their actual owners.
-5. A small, capacity-conscious pilot evaluated on complete recovery and call behavior.
-- Attribution: targets proposed by [GPT] from [Claude]'s gap draft; Lead-anchored rollout and "why" principle are yours; decision to lock is yours.
+1. **End-to-end Guide performance:** recognize → verify → decide → execute → explain and document. Includes eligible, ineligible, and pending-Plus scenarios.
+2. **Lead calibration and diagnostic coaching:** common expectations; when a call breaks down, find out whether the cause was understanding, tool access, or decision-making before prescribing coaching.
+3. **In-call performance support:** concise, actionable guidance that complements the existing Beacon article rather than duplicating it.
+4. **Cross-functional operational readiness:** dependencies, responsible owners, approval requirements, and what Learning drafts vs. what partners must resolve.
+5. **Small, capacity-conscious intervention pilot:** tests the *intervention* (Lead calibration + Guide practice + in-call support), not just Guide performance. Includes new and experienced Guides; states group size and minutes per person for Workforce approval; examines observed behaviors, complete recovery, repeat contacts, customer feedback, AHT, and queue impact.
+
+**Preserved distinctions [GPT]:**
+- These are locked **design targets**, not locked deliverables or formats. The learner-facing sample (Guide reference, Lead cue, scenario, or a combination) is still open.
+- The 70 checked-but-troubleshot calls are an **observed outcome**, not 70 proven decision failures. Misinterpretation / tool access / deliberate choice are diagnostic hypotheses, not a verified breakdown.
+- Implementation details and unresolved dependencies remain open.
+
+- Attribution: targets proposed by [GPT] from [Claude]'s gap draft, refined by [GPT] so the pilot tests the intervention, not just Guides; Lead-anchored rollout and "why" principle are yours; decision to lock is yours.
 - Priority vs. sequence: eligibility-to-action is the top problem; Lead calibration is the first rollout step.
