@@ -7,6 +7,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | # | Resource | Audience | Purpose | Status | Decided | Log |
 |---|---|---|---|---|---|---|
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
+| R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length only) | Nov 6 | item 69 |
 
 ---
 
@@ -23,3 +24,12 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Possible contents (GPT suggestions, not decided):** what Guides need to know (failure pattern, eligibility limits, recovery actions, Plus); what good looks like; diagnostic coaching questions (misunderstanding vs. tool vs. execution); what to escalate (Orbit access, pending Plus, policy questions).
 - **Constraints:** one page; practical, light on instruction; point to the Guide reference rather than restate it.
 - **Open:** contents not yet drafted.
+
+---
+
+## R2. Team Lead working meeting
+
+- **Length:** 20 minutes. Planning assumption, subject to Workforce approval.
+- **Order:** situation → case discussion → alignment → close; hands out R1 at the end.
+- **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
+- **Open:** time split (candidates in item 69), cases used, who attends from Quality and Specialist Care.

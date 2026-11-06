@@ -485,3 +485,12 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
 - [GPT] Distinct jobs: **meeting** builds shared understanding, resolves confusion, calibrates expectations; **one-pager** preserves that alignment and supports reinforcement. Keep any Guide-facing reference separate — don't make one page serve both audiences.
 - [GPT, adopted by you] Add "What Leads need to do afterward" — where readiness turns into reinforcement.
 - [Claude] Fits draft material A (ARCHITECTURE.md). Note the parked rule from item 67 ("no formats until each part's job is established"): this one's job is now defined, so the decision is consistent with it. Watch for overlap with any Guide-facing reference (material C) so the two don't become competing sources of truth (item 10 risk); the one-pager can point to the Guide reference rather than restate it. Leads are learners in the alignment meeting, so this one-pager could itself satisfy the brief's "words a learner would see or hear" requirement — though a Guide-facing piece would show the frontline words more directly.
+
+### 69. Team Lead working meeting: 20 minutes — `position` [You]
+[You] Approved **20 minutes** for the Team Lead working meeting (down from GPT's first proposal of 25). Planning assumption, subject to Workforce approval. **Time split not decided.**
+- Order agreed in discussion: situation → case discussion → alignment → close (cases before alignment so misunderstandings surface before the standard is set).
+- Candidate splits (neither adopted):
+  - [GPT] 4 situation · 8 cases + understanding check · 5 alignment · 3 takeaway, expectations, next steps. Protect the case minutes.
+  - [Claude] 3 · 10 · 5 · 2 — keeps ~3 min per case (eligible, ineligible, pending Plus); the one-pager carries the refresher detail.
+- [Claude] Conditions either way: Quality plus a Specialist who ran the pilot (e.g., Harper or Mateo) in the room to answer blockers live; blockers raised go onto Dana's owner list.
+- Evidence on Lead time: one Lead could spare ten minutes (Sep 16); Priya's "smallest manager behavior" (Sep 19); Imani's huddles ran 9–10 min; Renee can protect short pilot time (Sep 19, Oct 1).
