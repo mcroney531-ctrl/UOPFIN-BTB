@@ -651,3 +651,6 @@ Nov 6. Evidence (what Leads know and need) → intervention (25-minute session, 
 - **Applied [GPT suggestion, adopted by you]:** removed "Review Case(s)" from *Establish understanding*; the two cases now sit under the 9-minute agenda segment, since they bridge into alignment.
 - Implementation dependencies (not design blockers): Specialist availability · approved clips · Orbit screen and General Care access · pending-Plus wording.
 - Next: **02 — Equip Guides.**
+
+### 83. Equip Guides: Cues and Proper Sequence kept separate — `position` [You]
+Nov 6. Under *What Guides need* in the organizer: **Cues — recognize when to act** (Ben's recognition cue, Sep 10; Imani's impact-first refinement; recognition triggers verification, not an assumption of eligibility) and **Proper Sequence — know what to do next** (Recognize → Verify → Decide → Complete → Explain & Document; supported by the proposed Guide Call Path, R6; covers eligible, ineligible, unclear, and unresolved Plus). Kept separate as distinct performance needs; both may appear together in the Call Path later. Working design notes — neither cue nor sequence is approved Northstar procedure. Guide actions and Guide resources not expanded yet.
