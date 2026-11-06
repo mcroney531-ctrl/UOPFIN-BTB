@@ -497,3 +497,4 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
 - **Update — split decided [You], Nov 6:** **3 · 8 · 6 · 3** (situation and WN7 refresher · case discussion and understanding check · align on Guide expectations and Lead coaching · takeaway, responsibilities, next steps). Proposed by [GPT]; the extra alignment minute is where the case discussion becomes a shared coaching standard.
   - **Rule adopted [GPT, decided by you]:** the refresher stops at three minutes. Anything needing deeper explanation is raised during the cases or assigned for follow-up.
   - [Claude] Still open: which cases fit in 8 minutes — all three (eligible, ineligible, pending Plus) at under 3 minutes each, or two plus one on the one-pager.
+- **Update — split revised [You], Nov 6:** **3 · 7 · 7 · 3** (case discussion 7, alignment 7), replacing 3 · 8 · 6 · 3. Refresher hard-stop rule unchanged.

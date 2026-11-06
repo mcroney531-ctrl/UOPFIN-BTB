@@ -32,8 +32,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Length:** 20 minutes. Planning assumption, subject to Workforce approval.
 - **Agenda (decided):**
   - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up)
-  - 8 min — Case discussion and understanding check
-  - 6 min — Align on Guide expectations and Lead coaching
+  - 7 min — Case discussion and understanding check
+  - 7 min — Align on Guide expectations and Lead coaching
   - 3 min — Takeaway (R1), responsibilities, next steps
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
-- **Open:** which cases fit in the 8 minutes; who attends from Quality and Specialist Care.
+- **Open:** which cases fit in the 7 minutes; who attends from Quality and Specialist Care.
