@@ -37,12 +37,12 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Length:** 25 minutes (revised from 20, item 79). Proposed working session, subject to Workforce approval. ~7.5 Lead-hours for 18 Leads, plus Specialist time.
 - **Agenda (decided):**
   - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up) — includes a short mention that Beacon guidance exists but has been hard to find
-  - 10 min — Case discussion and understanding check — case debrief includes the zoom-in: where `BH-4419` and the Orbit serial tool are, and when Guides use each (item 78)
-  - 9 min — Align on Guide expectations and Lead coaching
+  - 9 min — Case discussion and understanding check — case debrief includes the zoom-in: where `BH-4419` and the Orbit serial tool are, and when Guides use each (item 78)
+  - 10 min — Align on Guide expectations and Lead coaching
   - 3 min — Takeaway (R1), responsibilities, next steps — includes the coordination thread (R3) and asking Leads to introduce the video (R4) in their next huddle
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
 - **Cases:** two (decided, item 73); which two to be confirmed — candidates in item 73.
-- **Open:** the two cases (~5 min each); who attends from Quality and Specialist Care.
+- **Open:** the two cases (~4–5 min each); who attends from Quality and Specialist Care.
 
 ---
 
