@@ -109,6 +109,9 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Format notes:** small decision table where the answer depends on Orbit or transaction state.
 - **Findability test:** search with "Plus," "pending credit," and customer phrases (Northstar's existing practice, Jul 20).
 - **Scope:** Plus within the WN7 recovery only.
+- **Approval:** contributors from Product Ops, account systems, Finance; Content Editor coordinates; **one designated approver** for publication. Existing answers still need review for this context.
+- **Publication:** approved sections go up early only if the pending gap is flagged and an escalation path exists; otherwise wait for a coherent minimum FAQ.
+- **Learning's role:** identify the gap, propose, hand off. Not writing Plus policy or the FAQ content.
 
 ---
 
