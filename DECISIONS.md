@@ -468,3 +468,13 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - Implication either way: **what Leads asked for may not be all they need** — the same stated-vs-observed gap seen with Guides. Supports checking Lead WN7 knowledge rather than assuming it.
 - [GPT, revised suggestion — not adopted] Leads' requests cluster as *what to communicate, what to recognize, what to reinforce* — performance translation, not process learning. Don't lead with a WN7 knowledge assessment (solves an unestablished problem). Use one realistic-case calibration activity; answers reveal understanding; address gaps if they appear. WN7 knowledge is a prerequisite to verify, not a deficit to assume. One Lead session, not two, unless evidence demands it. Leads still need enough operational understanding because Guides consult them mid-call.
   - [Claude] Fits material A without adding a component. If adopted: someone who can answer on the spot must be in the session (Quality, plus a Specialist who ran the pilot, e.g., Harper or Mateo), or a surfaced gap has no one to fill it.
+
+### 67. Organizer structure — parked for later — `design idea` (GPT, not adopted; saved at your request)
+[You] Asked to keep this for later; nothing added to the organizer yet. Organizer = thinking tool, not a deliverable decision.
+[GPT] Simple flowchart, three connected layers:
+1. **What success looks like** — observable Guide behaviors + customer outcomes.
+2. **Team Lead enablement** — *Readiness:* know the process, communicate, recognize, calibrate. *Reinforcement:* observe, diagnose, coach, follow up.
+3. **Guide performance** — Recognize → Verify → Decide → Act → Explain/document.
+- Separate margin for dependencies, unanswered questions, and evidence, so they aren't mistaken for things Learning has to build.
+- No formats (video, job aid, huddle) until each part's job is established.
+- Current organizer artifact: https://claude.ai/artifact/PjX54QGFHTMMhPyxMpNbxy (stop 01 "Lead alignment" only).
