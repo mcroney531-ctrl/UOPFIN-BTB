@@ -448,3 +448,17 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
 
 - Attribution: targets proposed by [GPT] from [Claude]'s gap draft, refined by [GPT] so the pilot tests the intervention, not just Guides; Lead-anchored rollout and "why" principle are yours; decision to lock is yours.
 - Priority vs. sequence: eligibility-to-action is the top problem; Lead calibration is the first rollout step.
+
+### 66. What do Leads actually know about the WN7? — `open question` `position` [You]
+[You] We've been treating Lead readiness as getting Leads on the same page (a cue, a shared standard). But nothing shows how well Leads themselves recognize the WN7 or understand the recovery. Being aligned isn't the same as knowing the material. **Decision: clarify what Leads need to *know* about the WN7, separately from what they need to coach.**
+
+- [GPT, not adopted — idea noted only] Three dimensions of Lead readiness: (1) WN7 knowledge — recognize the pattern, WN7/WNM-7 vs. eligibility, what Plus is and isn't, the policy's limits; (2) operational competence — Beacon, Orbit, reading the result, choosing the path, pending Plus, walking a Guide through a case; (3) coaching calibration — recognize a good call, locate a breakdown, tell knowledge gaps from tool or process problems. Then reinforcement. Proposed a short scenario-based readiness check before calibrating.
+- What the packet shows about Lead knowledge [Claude] — **mixed, no baseline**:
+  - Some Leads show strong WN7 knowledge: Sofia (label tip, pattern vs. slow streaming, Sep 13), Imani (impact-first, Sep 8–18), Ben (recognition cue, Sep 10).
+  - At least one Lead was unsure early: Amina, Sep 11 — "Can we tell them the credit is a year of Plus, or is it a discount? Also, do we order the hub and then somebody else applies the credit? I want to avoid Leads inventing a handoff." (Before General Care had a path.)
+  - Guides go to Leads for answers (Micah on hold to ask a Lead, Sep 18; Guide J., Sep 11), so Lead knowledge gaps pass straight to calls.
+  - Lead H. couldn't answer pending Plus (Sep 22) — but no one could; that's a dependency, not a Lead gap.
+  - Sep 28: two Leads said Guides first learned about `BH-4419` from a reviewer — suggests some Leads hadn't passed it on, possibly hadn't engaged with it.
+  - Tracker (Sep 10): 15 of 18 completed the generic CLEAR refresher; nothing measured WN7 knowledge or practice.
+  - Counterpoint: Leads themselves mostly asked for a cue, clips, and a pending-Plus answer (Sep 22, Sep 24) — not WN7 training. Leads may not see a knowledge gap, or may not have one; the packet can't tell which.
+- Effect on architecture: the Lead calibration kit (material A) assumes Leads know the WN7 well enough to coach it. That assumption is unverified. Open design question.

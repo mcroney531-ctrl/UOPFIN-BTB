@@ -84,3 +84,4 @@ Materials **B** (scenario cards) and **C** (in-call reference) both contain word
 5. **Video** — fully out, or a short model-call clip inside A/B?
 6. **Two weeks** — long enough to see anything, short enough for Dana's "not November"?
 7. **What you'd build for the interview** — C alone, B + C, or all four in light form?
+8. **Lead WN7 knowledge (item 66)** — kit A assumes Leads know the WN7 well enough to coach it; the packet has no baseline and the evidence is mixed. Does Lead preparation need a knowledge layer, a quick check, or neither?
