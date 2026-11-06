@@ -43,7 +43,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
   - 3 min — Takeaway (R1), responsibilities, next steps — includes the coordination thread (R3) and asking Leads to introduce the video (R4) in their next huddle
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
 - **Cases:** two (decided, item 73); which two to be confirmed — candidates in item 73.
-- **Open:** the two cases (~4–5 min each); who attends from Quality and Specialist Care.
+- **Cases (locked, item 80):** A — strong recovery with a Plus complication (documented, Sep 24); B — serial checked, generic troubleshooting continues (composite, labeled). Design notes in `LEAD_CASES.md`.
+- **Open:** who attends from Quality and Specialist Care; confirmations listed in `LEAD_CASES.md`.
 
 ---
 

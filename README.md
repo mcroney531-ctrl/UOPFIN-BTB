@@ -9,6 +9,7 @@ Behind-the-build record for the take-home project built in `TN-UOP-FIN`. This re
 | [`WORKBOOKS.md`](WORKBOOKS.md) | Quick quantitative pass over the two Orbit/Quality workbooks, and what it changes in the log |
 | [`GAPS.md`](GAPS.md) | Gap synthesis, dependencies, not-targeting list, and the five locked core targets (end of file) |
 | [`RESOURCES.md`](RESOURCES.md) | Deliverables actually decided on, with status |
+| [`LEAD_CASES.md`](LEAD_CASES.md) | Design notes for the two Lead-meeting cases: prompts, takeaways, next checks, confirmations needed |
 | [`QUOTES.md`](QUOTES.md) | Every flagged quote, chronological, standalone (session + reader notes) |
 | [`ARCHITECTURE.md`](ARCHITECTURE.md) | Draft one-page intervention architecture, for review |
 
