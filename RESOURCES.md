@@ -36,8 +36,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 - **Length:** 20 minutes. Planning assumption, subject to Workforce approval.
 - **Agenda (decided):**
-  - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up)
-  - 7 min — Case discussion and understanding check
+  - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up) — includes a short mention that Beacon guidance exists but has been hard to find
+  - 7 min — Case discussion and understanding check — case debrief includes the zoom-in: where `BH-4419` and the Orbit serial tool are, and when Guides use each (item 78)
   - 7 min — Align on Guide expectations and Lead coaching
   - 3 min — Takeaway (R1), responsibilities, next steps — includes the coordination thread (R3) and asking Leads to introduce the video (R4) in their next huddle
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.

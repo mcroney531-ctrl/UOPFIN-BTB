@@ -611,3 +611,10 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - **One approver [GPT]:** several contributors (Product Ops, account systems, Finance) are fine; the Content Editor coordinates and one designated approver signs off on publication.
   - **Learning's role ends at the handoff [You, agreed by GPT]:** Learning identifies the gap, proposes the intervention, and sets up the handoff. Content, approval sequence, and the pending answer belong to the owners. Knowing where Learning's responsibility stops is part of the design judgment.
   - **For Dana [GPT]:** What (question-first Plus guidance in Beacon) · Why (fast, accurate answers during WN7 recovery) · Who (Content Editor drafts; Product Ops, account systems, Finance advise and approve) · Dependency (pending-status guidance confirmed before publication) · Validation (test findability and accuracy with Northstar's existing search process).
+
+### 78. Lead meeting: two Beacon mentions, two jobs — `position` [You]
+[You] Kept both Beacon mentions in the Lead meeting and gave each a purpose instead of cutting one:
+- **Establish understanding — "Mention the Beacon article, search troubles"** = context: guidance exists, but finding and using it has been hard.
+- **Establish alignment — zoom-in** = application: Leads leave knowing exactly where `BH-4419` and the Orbit serial tool are and when Guides use each. [GPT wording, adopted in substance] *"Confirm where to find BH-4419 and the Orbit serial tool; clarify when Guides should use each."*
+- **Timing [GPT, agreed]:** the zoom-in happens inside the case debrief, not as a separate demo — no second walkthrough in a 20-minute agenda.
+- [Claude] Limits: until the Orbit screen reference and permissions are confirmed (item 47), the zoom-in can name the `WN7 eligibility` panel but not show screens. The organizer's "small groups with a specialist" line is still a parked question (item 70).
