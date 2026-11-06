@@ -94,7 +94,9 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Shape:** simple step overview, not a condensed Beacon. Points to `BH-4419` and the Orbit serial tool; distinct reminder for Plus.
 - **Draft steps (GPT, not final):** Recognize → Verify → Decide → Complete → Explain & document.
 - **Excludes:** eligibility rules, detailed procedures, unapproved Plus wording (Beacon owns those).
-- **Open (Guide phase):** where it lives (separate vs. embedded in Beacon / Orbit desktop notice); ordinary-support branch; direct link to the Orbit panel.
+- **Shape notes (item 76, pending your adoption):** three branches — eligible → recovery, not eligible → ordinary support (stop the restart loop), pending / unclear → escalation route; links straight to the Orbit panel with Beacon as authority; used during Guide practice, not just handed out.
+- **Open (Guide phase):** where it lives (embedded near the workflow; Orbit desktop notice only if Cam confirms it can support it).
+- **Related gap:** Guide practice is a missing *intervention* (e.g., a short facilitated huddle), not another resource.
 
 ---
 
