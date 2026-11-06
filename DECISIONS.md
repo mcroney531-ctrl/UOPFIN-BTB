@@ -507,3 +507,9 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - Small groups: 3 clusters of Leads, each with a Specialist? ([Claude] notes: works for 7-minute cases; needs a shared answer sheet so Specialists don't give three answers; Mateo's sign-off; Specialist Team Leads like Harper may fit better; mix centers in each group.)
   - Which cases fit the 7-minute block.
   - Pilot size and the two-week timeline.
+
+### 71. Shared Lead coordination thread — `position` [You]
+[You] Part of the "moving forward" close of the Lead meeting: a **shared Lead coordination thread** for questions, blockers, coaching observations, and verified updates.
+- Evidence it answers [Claude]: Sep 8 — "too much information by chat," a rumor, a workaround, and a draft email copied into separate channels; the group agreed a temporary note should be the source of truth "but did not identify who would publish it" (item 34). Sep 21 — Priya didn't know what most of her 18 Leads would do (item 49). Sep 22 — Leads found coaching activity hard to track across shifts (item 18).
+- Risk [Claude]: another chat channel could repeat the Sep 8 problem unless *verified updates* are visibly separate from discussion and someone named posts them. Blockers raised here should feed Dana's owner list.
+- Open: who owns and verifies the thread (Priya? Learning? Quality?); where it lives; how verified updates are marked.

@@ -8,6 +8,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 |---|---|---|---|---|---|---|
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
 | R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
+| R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
 
 ---
 
@@ -37,3 +38,13 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
   - 3 min — Takeaway (R1), responsibilities, next steps
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
 - **Open:** which cases fit in the 7 minutes; who attends from Quality and Specialist Care.
+
+---
+
+## R3. Shared Lead coordination thread
+
+- **Introduced:** in the "moving forward" close of R2.
+- **For:** questions, blockers, coaching observations, and verified updates.
+- **Job:** keep Leads aligned after the meeting and give them one place for answers.
+- **Watch:** keep verified updates visibly separate from discussion; route blockers to Dana's owner list.
+- **Open:** owner and verifier; where it lives; how verified updates are marked.
