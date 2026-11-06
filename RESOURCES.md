@@ -12,6 +12,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
 | R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
 | R6 | Guide Call Path | Guides | Simple step overview to stay on track mid-call; points to Beacon and the Orbit tool; Plus reminder | Decided | Nov 6 | item 76 |
+| R7 | Plus FAQ inside Beacon | Guides (built by Content Editor + Plus owner) | Question-first Plus answers searchable mid-call; Call Path links here | Proposed to partner | Nov 6 | item 77 |
 
 ---
 
@@ -97,6 +98,17 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Shape notes (item 76, pending your adoption):** three branches — eligible → recovery, not eligible → ordinary support (stop the restart loop), pending / unclear → escalation route; links straight to the Orbit panel with Beacon as authority; used during Guide practice, not just handed out.
 - **Open (Guide phase):** where it lives (embedded near the workflow; Orbit desktop notice only if Cam confirms it can support it).
 - **Related gap:** Guide practice is a missing *intervention* (e.g., a short facilitated huddle), not another resource.
+
+---
+
+## R7. Plus FAQ inside Beacon — partner-owned proposal
+
+- **Built by:** Content Editor with the Plus process owner (owner TBD: Product Ops / account systems / Finance). **Learning proposes; doesn't build or approve answers.**
+- **Job:** "Something went wrong with Plus at this step — what's the answer?" Searchable under "Plus." Not a new document: question-first guidance inside Beacon.
+- **Candidate questions:** What is Plus, and does it fix the drops? (answer approved — Nina, Sep 21) · Credit didn't apply after replacement — now what? (case stays open, Sep 9) · What do I document? (case ID tied to both events, Samir Sep 10) · Plus shows pending — what do I tell the customer? (**blocked, needs approval**) · When do I escalate?
+- **Format notes:** small decision table where the answer depends on Orbit or transaction state.
+- **Findability test:** search with "Plus," "pending credit," and customer phrases (Northstar's existing practice, Jul 20).
+- **Scope:** Plus within the WN7 recovery only.
 
 ---
 

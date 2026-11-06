@@ -595,3 +595,14 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - **Learner-facing sample:** the Call Path is a strong attachment for Dana.
   - **Addition [GPT]:** keep a **pending / unclear** state — pending Plus, uncertain eligibility, or no tool access needs an escalation route rather than a forced eligible/ineligible choice.
   - **Next design focus [GPT]:** Guide practice, once Lead alignment is settled.
+
+### 77. Plus FAQ inside Beacon (proposal for the Content Editor) — `position` [You] (partner-owned resource)
+[You] Propose that the Content Editor create **question-first Plus guidance inside Beacon** — searchable under "Plus" — so a Guide with a Plus question mid-call finds the answer without reading another guide. Format: FAQ inside Beacon, not a separate document. The Guide Call Path (R6) flags Plus at the relevant step and links here.
+- [GPT] Distinct jobs: Call Path = "where am I, what next?"; Plus FAQ = "something went wrong at this step; I need a specific answer." Candidate questions: credit didn't apply after replacement · Plus shows pending, what to say · who owns follow-up and what to document · when to escalate. Pushback: test that "Plus," "pending credit," etc. actually surface it; where the answer depends on Orbit or transaction state, use a small decision table inside the FAQ rather than prose. Content Editor doesn't invent answers — the Plus process owner approves. Framing for the interview: observed problem → design decision → why → dependency; separate proposed design from verified outcome.
+- [Claude] Additions:
+  - Add **"What is Plus, and does it fix the drops?"** — the recurring misconception (Guide L. Sep 13; Micah's customer Sep 18; Sep 24 "backup internet while the replacement is on the way"). Already-approved answer: Nina, Sep 21 (`2026-09-21-care-systems-sync.md`, 10:10).
+  - Answers that already exist: failed transaction → case stays open for follow-up (Sep 9 account systems note; Sep 24 model call); documentation → "Finance needs the case ID tied to both events" (Samir, Sep 10, 15:11). **Only "pending" is still blocked** — the FAQ can go up without it and add it on approval.
+  - Search test already exists at Northstar: Jul 20 routine fix checked "the product code and the common customer phrase" (item 24); content feedback form (item 60).
+  - "Plus process owner" unnamed — candidates: Product Ops (Nina, wording), account systems (transactions, pending), Finance (Samir, documentation).
+  - Keep scope to Plus in the WN7 recovery; Plus is a general $149/yr product (Ben's Sep 5 billing call), so a general FAQ would sprawl.
+- Theme for the interviewer note [GPT + Claude]: sometimes the better intervention is improving access to accurate information, not training — echoes Malik, "It is not all a training failure" (Sep 21).
