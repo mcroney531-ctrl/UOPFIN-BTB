@@ -498,3 +498,12 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - **Rule adopted [GPT, decided by you]:** the refresher stops at three minutes. Anything needing deeper explanation is raised during the cases or assigned for follow-up.
   - [Claude] Still open: which cases fit in 8 minutes — all three (eligible, ineligible, pending Plus) at under 3 minutes each, or two plus one on the one-pager.
 - **Update — split revised [You], Nov 6:** **3 · 7 · 7 · 3** (case discussion 7, alignment 7), replacing 3 · 8 · 6 · 3. Refresher hard-stop rule unchanged.
+
+### 70. Working order for architecture; questions parked — `process` [You]
+[You] Order for the architecture work: **1. What success looks like → 2. Team Lead alignment → everything else falls into place after.** Architecture critique (`ARCHITECTURE.md`) is next on your list; it hasn't been done yet. [GPT] agreed: hold formats, pilot size, and timelines until those two are settled.
+- Already decided inside Lead alignment (don't conflict with the order): R1 Lead one-pager (item 68); R2 20-minute meeting, 3·7·7·3 (item 69).
+- **Parked until after the critique:**
+  - Does the Lead meeting include all 18 General Care Leads or only pilot Leads? ([Claude] noted a middle option: align all 18 Leads, pilot with 2–4 teams.)
+  - Small groups: 3 clusters of Leads, each with a Specialist? ([Claude] notes: works for 7-minute cases; needs a shared answer sheet so Specialists don't give three answers; Mateo's sign-off; Specialist Team Leads like Harper may fit better; mix centers in each group.)
+  - Which cases fit the 7-minute block.
+  - Pilot size and the two-week timeline.
