@@ -46,6 +46,9 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Introduced:** in the "moving forward" close of R2.
 - **For:** questions, blockers, coaching observations, and verified updates.
 - **Job:** keep Leads aligned after the meeting and give them one place for answers.
+- **One thread for all Leads** (not per small group). Meeting establishes alignment · one-pager (R1) preserves it · thread maintains it.
+- **Scope:** questions, blockers, useful coaching observations, confirmed updates — not a channel Leads must constantly monitor.
+- **Beacon stays the official source** of procedural guidance.
 - **Watch:** keep verified updates visibly separate from discussion; route blockers to Dana's owner list.
 - **Open:** owner and verifier; where it lives; how verified updates are marked.
 - **Proposal on hold (item 71):** Priya or her delegate owns it; verified updates relayed with a source tag from the owning team (Product Ops, Care Systems, Quality, Knowledge Ops); Learning curates, doesn't verify.

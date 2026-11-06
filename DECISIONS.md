@@ -517,3 +517,10 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - **Owner:** Priya or a Lead she designates (manages the 18 GC Leads; took Beacon and access issues to Operations herself, Sep 18). Her time is the risk; a delegate may be more realistic.
   - **Verified updates:** posted by the owner, tagged with the source — e.g., "Verified: Product Ops, Oct 7." Sources by topic: offer, eligibility, Plus → Product Ops (Nina) / account systems; Orbit screen and permissions → Care Systems (Cam Hall); coaching standard → Quality (Elias); Beacon search and article → Knowledge Ops / content editor.
   - **Learning:** sets it up, turns recurring questions into one-pager updates, routes blockers to Dana's owner list. Not the verifier.
+- **Distinctions brought over with the decision [GPT], Nov 6:**
+  - **One shared thread for all Leads**, not one per small group — avoids splitting the understanding. Flow: small-group discussion → shared alignment → one ongoing thread.
+  - **Who's in it:** the Specialists from the meeting, Quality, and a designated owner who routes unresolved questions.
+  - **Scope discipline:** not a running conversation everyone must monitor — questions, blockers, useful coaching observations, confirmed updates only.
+  - **Division of labor:** meeting = establish alignment · one-pager = preserve it · thread = maintain it.
+  - **Beacon remains the official source of procedural guidance**; the thread doesn't replace it.
+  - [Claude] Dependency: "the Specialists from the meeting" assumes the small-group format, which is still parked (item 70). The one-thread decision holds either way.
