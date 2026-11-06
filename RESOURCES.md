@@ -10,7 +10,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
 | R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
-| R5 | Call-excerpt example bank | Team Leads | 3–5 de-identified excerpts by failure mode, each with cue and next step; companion to R1 | Decided (described, not populated) | Nov 6 | item 74 |
+| R5 | Call excerpts for Leads (bank or cheat sheet) | Team Leads | De-identified excerpts by failure mode, each with cue and next step; companion to R1 | **Proposed** — shape not set | Nov 6 | item 74 |
 
 ---
 
@@ -73,7 +73,9 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ---
 
-## R5. Call-excerpt example bank
+## R5. Call excerpts for Leads — PROPOSED
+
+- **Status:** proposed, likely; shape open (example bank vs. cheat sheet).
 
 - **Audience:** Team Leads. Companion to R1; the one-pager carries 2–3 cues, the bank holds the examples.
 - **Contents:** 3–5 de-identified excerpts covering missed recognition · checked but didn't act · incomplete recovery · overpromising · strong execution. Each with what happened, the coaching cue, what to try next time.
