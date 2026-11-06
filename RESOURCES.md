@@ -148,3 +148,21 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Content owner:** TBD (candidate: Quality with Specialist Care). **Approval authority:** confirms procedural or Plus guidance. Both resources show owner and last-reviewed date.
 - **Review triggers:** changes to `BH-4419`, Orbit, Plus handling, or a recurring coaching issue.
 - **Change notification:** a maintenance workflow, not an AI feature. Manual first; basic automated Beacon alerts if supported; AI comparison only as an optional later enhancement. Not part of the Dana intervention — a one-line sustainability note only.
+
+---
+
+## Ownership map (draft — for Dana's "what each would need to own")
+
+Started Nov 6; more owners to add as the package firms up.
+
+### Mateo Ruiz — Specialist Care (one sign-off conversation, two separate decisions)
+| Request | What it involves | Status | Priority if capacity allows only one |
+|---|---|---|---|
+| Specialists in the 25-minute Lead alignment session (R2) | Support small-group case discussion | Ask — approve, modify, or decline | **1st** — builds the Lead capability that supports Guides through the whole rollout |
+| Rotating Specialist pool in the Lead thread during initial rollout (R3, item 85) | Clarify from approved guidance, sized to bandwidth; no response-time promise | Ask — approve, modify, or decline; item 85 still proposed | 2nd — temporary safety net |
+
+### Lead thread owner — **TBD (explicit ownership decision still needed)**
+- Monitors unanswered questions.
+- Tags and routes recurring blockers (Orbit reading, permissions, Plus) to coaching, the Call Path, or the right dependency owner.
+- Posts verified updates with a source tag.
+- Held proposal (item 71): Priya or a Lead she designates; Learning curates, doesn't verify.
