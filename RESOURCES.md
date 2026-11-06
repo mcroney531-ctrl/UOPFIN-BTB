@@ -10,7 +10,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
 | R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
-| R5 | Coaching cheat sheet | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
+| R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
+| R6 | Guide Call Path | Guides | Simple step overview to stay on track mid-call; points to Beacon and the Orbit tool; Plus reminder | Decided | Nov 6 | item 76 |
 
 ---
 
@@ -73,7 +74,9 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ---
 
-## R5. Coaching cheat sheet
+## R5. Lead Coaching Cues
+
+- **Renamed** from "coaching cheat sheet" (item 76).
 
 - **Audience:** Team Leads. Leaves the meeting with R1. One page.
 - **Job:** "What do I listen for, and how do I coach it?" (R1 answers "what do I need to know?")
@@ -82,6 +85,26 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Sourcing assumption (label in materials):** Quality provides approved, de-identified excerpts. If they can't be shared, Learning drafts illustrative scenarios from documented call patterns (manually or AI-assisted), validated by Quality and Specialist Care for evidence fidelity, operational accuracy, and coaching usefulness. Reconstructions are labeled, never presented as real calls. **Fallback wording on hold:** you'll define the inputs and criteria; candidate source calls are listed under item 74.
 - **In the interview materials:** described with placeholders or labeled illustrative examples; only verified recordings are called real excerpts.
 - **Ownership:** see below.
+
+---
+
+## R6. Guide Call Path
+
+- **Audience:** Guides. **Job:** "What do I do next?" — stay oriented during the call and complete the recovery.
+- **Shape:** simple step overview, not a condensed Beacon. Points to `BH-4419` and the Orbit serial tool; distinct reminder for Plus.
+- **Draft steps (GPT, not final):** Recognize → Verify → Decide → Complete → Explain & document.
+- **Excludes:** eligibility rules, detailed procedures, unapproved Plus wording (Beacon owns those).
+- **Open (Guide phase):** where it lives (separate vs. embedded in Beacon / Orbit desktop notice); ordinary-support branch; direct link to the Orbit panel.
+
+---
+
+## Resource design rules (item 76)
+
+1. **One authority:** Beacon owns procedures and policy; every resource points there.
+2. **One job per resource.**
+3. **One obvious access point per audience.**
+- Launch materials (R2 meeting, R4 video) introduce; ongoing references (R1, R5, R6) are what people return to.
+- Another resource only if it fills a distinct, evidenced gap.
 
 ---
 
