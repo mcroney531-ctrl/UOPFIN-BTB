@@ -61,6 +61,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Beacon stays the official source** of procedural guidance.
 - **Watch:** keep verified updates visibly separate from discussion; route blockers to Dana's owner list.
 - **Open:** owner and verifier; where it lives; how verified updates are marked.
+- **Launch role (proposed, item 85):** during the first rollout days, a small rotating pool of Specialists may clarify in the thread, subject to capacity; urgent issues use existing escalation; owner tracks unanswered questions and recurring blockers.
 - **Proposal on hold (item 71):** Priya or her delegate owns it; verified updates relayed with a source tag from the owning team (Product Ops, Care Systems, Quality, Knowledge Ops); Learning curates, doesn't verify.
 
 ---
