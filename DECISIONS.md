@@ -462,3 +462,7 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - Tracker (Sep 10): 15 of 18 completed the generic CLEAR refresher; nothing measured WN7 knowledge or practice.
   - Counterpoint: Leads themselves mostly asked for a cue, clips, and a pending-Plus answer (Sep 22, Sep 24) — not WN7 training. Leads may not see a knowledge gap, or may not have one; the packet can't tell which.
 - Effect on architecture: the Lead calibration kit (material A) assumes Leads know the WN7 well enough to coach it. That assumption is unverified. Open design question.
+- [You] Observation: Leads' requests throughout were "give me cues, what to pass to my Guides, what to watch for" — not "what I need to know." Possibly because Leads aren't on the phones the way Guides are.
+  - [Claude] Pattern holds: Sep 22 pulse, Amina (Sep 16, Sep 24), Ben (Sep 15), Imani (Sep 24) all ask for coaching tools. Even Amina's Sep 11 knowledge question is framed as what to *tell* Guides.
+  - "Not on the phones" is unconfirmed — the packet never says whether Leads take calls (open under item 26). Other explanations fit too: role framing (coaches ask for coaching tools); assuming knowledge comes from the article; asking to be taught admits a gap; many may already know it.
+  - Implication either way: **what Leads asked for may not be all they need** — the same stated-vs-observed gap seen with Guides. Supports checking Lead WN7 knowledge rather than assuming it.
