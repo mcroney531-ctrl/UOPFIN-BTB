@@ -9,6 +9,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
 | R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
 | R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
+| R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — refinement to come; blocked on screen approval | Nov 6 | item 72 |
 
 ---
 
@@ -52,3 +53,15 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Watch:** keep verified updates visibly separate from discussion; route blockers to Dana's owner list.
 - **Open:** owner and verifier; where it lives; how verified updates are marked.
 - **Proposal on hold (item 71):** Priya or her delegate owns it; verified updates relayed with a source tag from the owning team (Product Ops, Care Systems, Quality, Knowledge Ops); Learning curates, doesn't verify.
+
+---
+
+## R4. Serial-number / Orbit tool video
+
+- **Length:** 2–3 minutes. **Optional resource, not an assignment.**
+- **Audience:** Guides. Sent through existing Guide channels; Leads point Guides to it when relevant (via R3 and coaching).
+- **Job:** close the gap between checking the serial and acting on the result.
+- **Possible focus (GPT, not decided):** when to check · what to look for in the Orbit panel · what happens next (Eligible → recovery; not eligible → ordinary support; link to `BH-4419`).
+- **Blocked on:** an approved Orbit screen reference and confirmed General Care permissions (item 47).
+- **Watch:** don't make it the only place to learn the result — a visual in Beacon serves mid-call; email alone may go unseen.
+- **Open:** refinement to come (your note).
