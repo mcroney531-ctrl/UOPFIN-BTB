@@ -48,3 +48,4 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Job:** keep Leads aligned after the meeting and give them one place for answers.
 - **Watch:** keep verified updates visibly separate from discussion; route blockers to Dana's owner list.
 - **Open:** owner and verifier; where it lives; how verified updates are marked.
+- **Proposal on hold (item 71):** Priya or her delegate owns it; verified updates relayed with a source tag from the owning team (Product Ops, Care Systems, Quality, Knowledge Ops); Learning curates, doesn't verify.
