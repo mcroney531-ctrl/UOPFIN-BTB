@@ -494,3 +494,6 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - [Claude] 3 · 10 · 5 · 2 — keeps ~3 min per case (eligible, ineligible, pending Plus); the one-pager carries the refresher detail.
 - [Claude] Conditions either way: Quality plus a Specialist who ran the pilot (e.g., Harper or Mateo) in the room to answer blockers live; blockers raised go onto Dana's owner list.
 - Evidence on Lead time: one Lead could spare ten minutes (Sep 16); Priya's "smallest manager behavior" (Sep 19); Imani's huddles ran 9–10 min; Renee can protect short pilot time (Sep 19, Oct 1).
+- **Update — split decided [You], Nov 6:** **3 · 8 · 6 · 3** (situation and WN7 refresher · case discussion and understanding check · align on Guide expectations and Lead coaching · takeaway, responsibilities, next steps). Proposed by [GPT]; the extra alignment minute is where the case discussion becomes a shared coaching standard.
+  - **Rule adopted [GPT, decided by you]:** the refresher stops at three minutes. Anything needing deeper explanation is raised during the cases or assigned for follow-up.
+  - [Claude] Still open: which cases fit in 8 minutes — all three (eligible, ineligible, pending Plus) at under 3 minutes each, or two plus one on the one-pager.

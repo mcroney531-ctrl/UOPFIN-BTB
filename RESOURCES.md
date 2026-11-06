@@ -7,7 +7,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | # | Resource | Audience | Purpose | Status | Decided | Log |
 |---|---|---|---|---|---|---|
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
-| R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length only) | Nov 6 | item 69 |
+| R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
 
 ---
 
@@ -30,6 +30,10 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 ## R2. Team Lead working meeting
 
 - **Length:** 20 minutes. Planning assumption, subject to Workforce approval.
-- **Order:** situation → case discussion → alignment → close; hands out R1 at the end.
+- **Agenda (decided):**
+  - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up)
+  - 8 min — Case discussion and understanding check
+  - 6 min — Align on Guide expectations and Lead coaching
+  - 3 min — Takeaway (R1), responsibilities, next steps
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
-- **Open:** time split (candidates in item 69), cases used, who attends from Quality and Specialist Care.
+- **Open:** which cases fit in the 8 minutes; who attends from Quality and Specialist Care.
