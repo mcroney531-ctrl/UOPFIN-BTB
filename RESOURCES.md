@@ -21,7 +21,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Audience:** Team Leads only (a Guide-facing reference, if any, is separate).
 - **When used:** handed out at the end of the Lead alignment meeting; pulled up before a huddle, when a Guide puts a customer on hold and asks for help, or while reviewing a call.
 - **Job:** preserve the alignment the meeting builds and help Leads put it into practice. The meeting builds shared understanding; the one-pager keeps it.
-- **Structure (yours):**
+- **Current contents (Nov 6, operational reference):** brief WN7 situation summary and key reminders · expected Guide recovery sequence · where to find BH-4419 and the Orbit serial tool, and when to use each · Lead responsibilities, follow-up expectations, and escalation channels.
+- **Earlier structure (yours, superseded by the above):**
   1. Here's the situation
   2. What you need to know
   3. How you can help your Guides
@@ -83,7 +84,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 - **Audience:** Team Leads. Leaves the meeting with R1. One page.
 - **Job:** "What do I listen for, and how do I coach it?" (R1 answers "what do I need to know?")
-- **Contents:** 3–5 short excerpts, each with *Listen for* · *What happened* · *Coach toward*, covering missed recognition · checked but didn't act · incomplete recovery · overpromising · strong execution. Observable behavior only; Beacon stays the authority for procedures.
+- **Current contents (Nov 6, coaching reference):** strong and weak call examples · observable cues (what to listen for and check) · questions to diagnose execution breakdowns · coaching responses vs. issues to escalate.
+- **Earlier contents:** 3–5 short excerpts, each with *Listen for* · *What happened* · *Coach toward*, covering missed recognition · checked but didn't act · incomplete recovery · overpromising · strong execution. Observable behavior only; Beacon stays the authority for procedures.
 - **In the meeting:** one excerpt used during calibration; the rest go home with Leads.
 - **Sourcing assumption (label in materials):** Quality provides approved, de-identified excerpts. If they can't be shared, Learning drafts illustrative scenarios from documented call patterns (manually or AI-assisted), validated by Quality and Specialist Care for evidence fidelity, operational accuracy, and coaching usefulness. Reconstructions are labeled, never presented as real calls. **Fallback wording on hold:** you'll define the inputs and criteria; candidate source calls are listed under item 74.
 - **In the interview materials:** described with placeholders or labeled illustrative examples; only verified recordings are called real excerpts.
