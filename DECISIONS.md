@@ -537,3 +537,12 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - **Complementary, not duplicate [GPT]:** R1 Lead one-pager helps Leads answer and coach consistently; R4 shows Guides how to read the eligibility tool. Neither restates `BH-4419`.
   - **Open, for later [GPT]:** does the video live inside or alongside `BH-4419` rather than as a standalone link?
 - **Link to R2 [You], Nov 6:** the "moving forward" close of the Lead meeting includes asking Leads to introduce the R4 video in their next huddle.
+
+### 73. Two cases in the Lead meeting — `position` [You]
+[You] The Lead meeting's 7-minute case block uses **two cases**. Which two is still to be confirmed.
+- Direction discussed (not decided): one call that shows the standard and one that shows a breakdown, so Leads practice diagnosing before coaching. [GPT] Move Priya's ineligible case (Sep 24) to Guide practice or the takeaway; label any reconstructed case as reconstructed.
+- Candidates, all documented in `meetings/care-observation-notes.md`, Sep 24 joint listening (no reconstruction needed) [Claude]:
+  - **Standard:** eligible, Plus credit didn't apply; Guide stayed with the handoff, opened follow-up, explained the case stays open; caller said it was clear.
+  - **Breakdown (strong fit):** recognized the pattern but couldn't locate the serial result; transferred; reviewer couldn't tell whether it was Orbit permissions or not knowing the screen — the diagnostic question is built in.
+  - **Breakdown (alternative):** eight minutes of generic troubleshooting before the article; both actions done; Plus described as "backup internet while the replacement is on the way."
+  - **Ineligible WN7, different symptom:** done right; Priya: "the case we must keep in the practice set so people do not turn a product name into a promise."

@@ -38,7 +38,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
   - 7 min — Align on Guide expectations and Lead coaching
   - 3 min — Takeaway (R1), responsibilities, next steps — includes the coordination thread (R3) and asking Leads to introduce the video (R4) in their next huddle
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
-- **Open:** which cases fit in the 7 minutes; who attends from Quality and Specialist Care.
+- **Cases:** two (decided, item 73); which two to be confirmed — candidates in item 73.
+- **Open:** the two cases; who attends from Quality and Specialist Care.
 
 ---
 
