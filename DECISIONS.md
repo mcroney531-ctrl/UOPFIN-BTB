@@ -478,3 +478,10 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
 - Separate margin for dependencies, unanswered questions, and evidence, so they aren't mistaken for things Learning has to build.
 - No formats (video, job aid, huddle) until each part's job is established.
 - Current organizer artifact: https://claude.ai/artifact/PjX54QGFHTMMhPyxMpNbxy (stop 01 "Lead alignment" only).
+
+### 68. Lead one-pager as the takeaway from the Lead alignment meeting — `position` [You] (first format decision)
+[You] Leads leave the alignment meeting with a one-page resource. **For Leads only.** Structure (yours): **Here's the situation → What you need to know → How you can help your Guides.** You're also adding a "What Leads need to do afterward" section to the organizer.
+- [GPT] Make it a Lead field guide, not another WN7 policy summary: what Guides need to know (failure pattern, eligibility limits, recovery actions, Plus); what good looks like; what to coach (diagnostic questions: misunderstanding vs. tool vs. execution); what to escalate (Orbit access, pending Plus, policy questions). Usable before a huddle, during a Guide escalation on hold, or while reviewing a call. Practical, light on instruction.
+- [GPT] Distinct jobs: **meeting** builds shared understanding, resolves confusion, calibrates expectations; **one-pager** preserves that alignment and supports reinforcement. Keep any Guide-facing reference separate — don't make one page serve both audiences.
+- [GPT, adopted by you] Add "What Leads need to do afterward" — where readiness turns into reinforcement.
+- [Claude] Fits draft material A (ARCHITECTURE.md). Note the parked rule from item 67 ("no formats until each part's job is established"): this one's job is now defined, so the decision is consistent with it. Watch for overlap with any Guide-facing reference (material C) so the two don't become competing sources of truth (item 10 risk); the one-pager can point to the Guide reference rather than restate it. Contains words a Lead would read — not the learner-facing words the brief requires, which still need a Guide-facing piece.
