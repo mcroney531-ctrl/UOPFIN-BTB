@@ -654,3 +654,14 @@ Nov 6. Evidence (what Leads know and need) → intervention (25-minute session, 
 
 ### 83. Equip Guides: Cues and Proper Sequence kept separate — `position` [You]
 Nov 6. Under *What Guides need* in the organizer: **Cues — recognize when to act** (Ben's recognition cue, Sep 10; Imani's impact-first refinement; recognition triggers verification, not an assumption of eligibility) and **Proper Sequence — know what to do next** (Recognize → Verify → Decide → Complete → Explain & Document; supported by the proposed Guide Call Path, R6; covers eligible, ineligible, unclear, and unresolved Plus). Kept separate as distinct performance needs; both may appear together in the Call Path later. Working design notes — neither cue nor sequence is approved Northstar procedure. Guide actions and Guide resources not expanded yet.
+
+### 84. Guide practice huddle (intervention) with a one-slide sequence aid — `position` [You]
+Nov 6. Closes the Guide practice gap flagged in item 76.
+- **Roles [Claude framing, adopted]:** Guide practice huddle = the intervention · one sequence slide = its supporting aid · Guide Call Path (R6) = in-call performance support. The slide bridges Lead alignment and Guide execution; Leads bring it to huddles, so Guides don't have to find it.
+- **Design additions adopted (Claude, with GPT's trims):**
+  1. Show the three branches — eligible → recovery · not eligible → standard support · unclear → verify or escalate — so the slide doesn't teach "WN7 = replacement."
+  2. Pair the slide with a short scenario that **forces a decision, not just recognition**. Primary: an **ineligible WN7** case (recognizing the pattern ≠ eligibility). Pending Plus as a follow-up prompt if time allows. (Evidence: Imani's practice format Sep 18; Rina Sep 18; Priya Sep 24.)
+  3. A very short Plus reminder at "Complete"; the Call Path carries the detail.
+  4. Ben's cue shown as an internal recognition prompt for Guides, not wording to say to customers.
+- **Keep the slide lean [GPT]:** Ben's cue, impact reminder, five steps, three branches, and a short Plus line is near the one-screen limit; trim before adding. Teaching visual only — not a second Call Path, no procedures to maintain. Fits Sofia: "Please make the cue fit on one screen" (Sep 19).
+- **Interview sample question — parked [You]:** GPT argues the Call Path is the stronger primary learner-facing sample (decision support, branching, workflow integration); Claude suggested the slide. You'll decide after submitting the package (Sunday) while prepping for the Wednesday interview.

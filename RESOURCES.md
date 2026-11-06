@@ -13,6 +13,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
 | R6 | Guide Call Path | Guides | Simple step overview to stay on track mid-call; points to Beacon and the Orbit tool; Plus reminder | Decided | Nov 6 | item 76 |
 | R7 | Plus FAQ inside Beacon | Guides (built by Content Editor + Plus owner) | Question-first Plus answers searchable mid-call; Call Path links here | Proposed to partner | Nov 6 | item 77 |
+| R8 | Guide practice huddle + one sequence slide | Guides (Lead-run) | Short practice that forces a decision; slide supports it; Call Path does the in-call work | Decided | Nov 6 | item 84 |
 
 ---
 
@@ -117,6 +118,17 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Approval:** contributors from Product Ops, account systems, Finance; Content Editor coordinates; **one designated approver** for publication. Existing answers still need review for this context.
 - **Publication:** approved sections go up early only if the pending gap is flagged and an escalation path exists; otherwise wait for a coherent minimum FAQ.
 - **Learning's role:** identify the gap, propose, hand off. Not writing Plus policy or the FAQ content.
+
+---
+
+## R8. Guide practice huddle (intervention) + sequence slide (aid)
+
+- **Run by:** Team Leads in existing huddles. Guides don't have to find anything.
+- **Job:** practice the decision, not just see the sequence. Closes the practice gap from item 76.
+- **Scenario:** primary — ineligible WN7 (recognizing the pattern doesn't establish eligibility); follow-up prompt — pending Plus, if time allows.
+- **Slide (one screen, lean):** Ben's recognition cue (internal prompt) · listen for the impact first · Recognize → Verify → Decide → Complete → Explain & Document · three branches (eligible / not eligible / unclear) · very short Plus reminder at Complete · "Use the Guide Call Path for the details."
+- **Not:** a second Call Path or a procedural reference.
+- **Open:** length (fits existing huddle time); which Leads run it first (pilot scope).
 
 ---
 
