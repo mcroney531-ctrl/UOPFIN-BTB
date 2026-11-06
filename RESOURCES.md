@@ -89,4 +89,4 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 - **Content owner:** TBD (candidate: Quality with Specialist Care). **Approval authority:** confirms procedural or Plus guidance. Both resources show owner and last-reviewed date.
 - **Review triggers:** changes to `BH-4419`, Orbit, Plus handling, or a recurring coaching issue.
-- **Change notification:** manual first; automated Beacon alerts if Beacon supports them. Not part of the Dana intervention — a one-line sustainability note only.
+- **Change notification:** a maintenance workflow, not an AI feature. Manual first; basic automated Beacon alerts if supported; AI comparison only as an optional later enhancement. Not part of the Dana intervention — a one-line sustainability note only.
