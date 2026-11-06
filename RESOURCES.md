@@ -45,7 +45,8 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
 - **Cases:** two (decided, item 73); which two to be confirmed — candidates in item 73.
 - **Cases (locked, item 80):** A — strong recovery with a Plus complication (documented, Sep 24); B — serial checked, generic troubleshooting continues (composite, labeled). Design notes in `LEAD_CASES.md`.
-- **Open:** who attends from Quality and Specialist Care; confirmations listed in `LEAD_CASES.md`.
+- **Format:** Specialist-supported small-group case discussion → shared alignment, within the 19-minute block (item 81). Specialist availability is a staffing dependency.
+- **Open:** number of groups; all 18 Leads or pilot Leads; who attends from Quality and Specialist Care; confirmations listed in `LEAD_CASES.md`.
 
 ---
 
