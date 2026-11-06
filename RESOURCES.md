@@ -10,7 +10,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
 | R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
-| R5 | Call excerpts for Leads (bank or cheat sheet) | Team Leads | De-identified excerpts by failure mode, each with cue and next step; companion to R1 | **Proposed** — shape not set | Nov 6 | item 74 |
+| R5 | Coaching cheat sheet | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
 
 ---
 
@@ -73,11 +73,20 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ---
 
-## R5. Call excerpts for Leads — PROPOSED
+## R5. Coaching cheat sheet
 
-- **Status:** proposed, likely; shape open (example bank vs. cheat sheet).
+- **Audience:** Team Leads. Leaves the meeting with R1. One page.
+- **Job:** "What do I listen for, and how do I coach it?" (R1 answers "what do I need to know?")
+- **Contents:** 3–5 short excerpts, each with *Listen for* · *What happened* · *Coach toward*, covering missed recognition · checked but didn't act · incomplete recovery · overpromising · strong execution. Observable behavior only; Beacon stays the authority for procedures.
+- **In the meeting:** one excerpt used during calibration; the rest go home with Leads.
+- **Sourcing assumption (label in materials):** Quality provides approved, de-identified excerpts. If they can't be shared, Learning drafts illustrative scenarios from documented call patterns (manually or AI-assisted), validated by Quality and Specialist Care for evidence fidelity, operational accuracy, and coaching usefulness. Reconstructions are labeled, never presented as real calls.
+- **In the interview materials:** described with placeholders or labeled illustrative examples; only verified recordings are called real excerpts.
+- **Ownership:** see below.
 
-- **Audience:** Team Leads. Companion to R1; the one-pager carries 2–3 cues, the bank holds the examples.
-- **Contents:** 3–5 de-identified excerpts covering missed recognition · checked but didn't act · incomplete recovery · overpromising · strong execution. Each with what happened, the coaching cue, what to try next time.
-- **Source (in the case):** Quality's de-identified clips (Elias, Oct 1). The Lead-meeting cases (item 73) can be the first entries.
-- **In the interview materials:** described with placeholders, not written-out excerpts, so nothing is presented as a real call.
+---
+
+## Ownership and maintenance (R1 and R5) — item 75
+
+- **Content owner:** TBD (candidate: Quality with Specialist Care). **Approval authority:** confirms procedural or Plus guidance. Both resources show owner and last-reviewed date.
+- **Review triggers:** changes to `BH-4419`, Orbit, Plus handling, or a recurring coaching issue.
+- **Change notification:** manual first; automated Beacon alerts if Beacon supports them. Not part of the Dana intervention — a one-line sustainability note only.
