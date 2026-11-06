@@ -24,14 +24,14 @@
 1. The replacement went through. Why isn't the call finished?
 2. What did the Guide do about the part that didn't complete? What did she *not* promise?
 3. What would the incomplete version of this call have sounded like? *(Anchor: Dev, Sep 18 — order complete, Plus pending, call ended, customer called back.)*
-4. This call ran longer than the Specialist examples. Was it still the right call?
+4. This call ran longer than the Specialist examples because the credit system was slow. What would have been lost by ending it sooner?
 
 **Expected Lead takeaways**
-- A complete recovery means **both transactions done, or follow-up opened and explained** — not "replacement submitted." (Matches Quality's draft field: "Plus credit complete or follow-up opened," Sep 24.)
+- A complete recovery means **both transactions done, or follow-up opened and explained** — not "replacement submitted." (Matches one of Quality's **draft** review fields, "Plus credit complete or follow-up opened," Sep 24 — proposed by Quality, not yet an adopted standard.)
 - Ownership of the unresolved piece: open the follow-up, keep the case open, tell the customer what happens next.
 - Don't promise an outcome or timing that isn't confirmed.
 - Record what's done and what's pending so the next contact can see it (item 53).
-- A longer call that closes the loop beats a short one that causes a callback (Harper, Sep 16: "Our dashboard would have looked good if we only watched handle time").
+- Don't sacrifice a complete recovery just to shorten the call (Harper, Sep 16: "Our dashboard would have looked good if we only watched handle time").
 
 **Coaching cue:** *Did the Guide recognize the unresolved piece and take ownership of it?*
 
@@ -95,7 +95,7 @@
 ## Into the 10-minute alignment
 
 Pull from both cases:
-- **Guide standard:** recognize → verify → choose the path → complete both actions or open follow-up → explain and document (Quality's six draft fields).
+- **Guide standard:** recognize → verify → choose the path → complete both actions or open follow-up → explain and document. This mirrors Quality's six **draft** review fields (Sep 24), which are Quality's proposal and not yet adopted — present them as the direction Quality is taking, not a new requirement Learning is introducing.
 - **Coaching cues:** the two above, plus what to listen for (Ben's cue with Imani's "impact first").
 - **Escalation:** what goes to the Lead thread vs. what a Lead handles directly.
 - Zoom-in on where `BH-4419` and the Orbit tool are, and when Guides use each (item 78).
