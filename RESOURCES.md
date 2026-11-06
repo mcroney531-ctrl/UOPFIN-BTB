@@ -79,7 +79,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Job:** "What do I listen for, and how do I coach it?" (R1 answers "what do I need to know?")
 - **Contents:** 3–5 short excerpts, each with *Listen for* · *What happened* · *Coach toward*, covering missed recognition · checked but didn't act · incomplete recovery · overpromising · strong execution. Observable behavior only; Beacon stays the authority for procedures.
 - **In the meeting:** one excerpt used during calibration; the rest go home with Leads.
-- **Sourcing assumption (label in materials):** Quality provides approved, de-identified excerpts. If they can't be shared, Learning drafts illustrative scenarios from documented call patterns (manually or AI-assisted), validated by Quality and Specialist Care for evidence fidelity, operational accuracy, and coaching usefulness. Reconstructions are labeled, never presented as real calls. **Fallback wording on hold:** you'll define the inputs and criteria (item 74).
+- **Sourcing assumption (label in materials):** Quality provides approved, de-identified excerpts. If they can't be shared, Learning drafts illustrative scenarios from documented call patterns (manually or AI-assisted), validated by Quality and Specialist Care for evidence fidelity, operational accuracy, and coaching usefulness. Reconstructions are labeled, never presented as real calls. **Fallback wording on hold:** you'll define the inputs and criteria; candidate source calls are listed under item 74.
 - **In the interview materials:** described with placeholders or labeled illustrative examples; only verified recordings are called real excerpts.
 - **Ownership:** see below.
 
