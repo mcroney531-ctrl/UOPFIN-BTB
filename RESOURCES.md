@@ -7,7 +7,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | # | Resource | Audience | Purpose | Status | Decided | Log |
 |---|---|---|---|---|---|---|
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
-| R2 | Team Lead working meeting (20 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | item 69 |
+| R2 | Team Lead working meeting (25 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | items 69, 79 |
 | R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
 | R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
@@ -34,15 +34,15 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ## R2. Team Lead working meeting
 
-- **Length:** 20 minutes. Planning assumption, subject to Workforce approval.
+- **Length:** 25 minutes (revised from 20, item 79). Proposed working session, subject to Workforce approval. ~7.5 Lead-hours for 18 Leads, plus Specialist time.
 - **Agenda (decided):**
   - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up) — includes a short mention that Beacon guidance exists but has been hard to find
-  - 7 min — Case discussion and understanding check — case debrief includes the zoom-in: where `BH-4419` and the Orbit serial tool are, and when Guides use each (item 78)
-  - 7 min — Align on Guide expectations and Lead coaching
+  - 10 min — Case discussion and understanding check — case debrief includes the zoom-in: where `BH-4419` and the Orbit serial tool are, and when Guides use each (item 78)
+  - 9 min — Align on Guide expectations and Lead coaching
   - 3 min — Takeaway (R1), responsibilities, next steps — includes the coordination thread (R3) and asking Leads to introduce the video (R4) in their next huddle
 - **Job:** build shared understanding, surface misunderstandings and operational blockers, calibrate what good looks like and how to coach it.
 - **Cases:** two (decided, item 73); which two to be confirmed — candidates in item 73.
-- **Open:** the two cases; who attends from Quality and Specialist Care.
+- **Open:** the two cases (~5 min each); who attends from Quality and Specialist Care.
 
 ---
 
