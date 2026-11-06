@@ -8,7 +8,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 |---|---|---|---|---|---|---|
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
 | R2 | Team Lead working meeting (25 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | items 69, 79 |
-| R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided | Nov 6 | item 71 |
+| R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided — **owner TBD (must name before final)** | Nov 6 | items 71, 82 |
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
 | R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
 | R6 | Guide Call Path | Guides | Simple step overview to stay on track mid-call; points to Beacon and the Orbit tool; Plus reminder | Decided | Nov 6 | item 76 |

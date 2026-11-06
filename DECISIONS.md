@@ -644,3 +644,10 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
 ### 81. Small-group structure settled; Lead alignment page settled — `position` [You]
 [You] Nov 6: the Lead meeting includes **Specialist-supported small-group case discussion, followed by shared alignment on Guide expectations and coaching responses** — part of the continuous 19-minute case-and-alignment block, not an extra activity. Resolves the small-groups question parked in item 70. **Specialist availability is a staffing dependency** (Specialist Care sign-off), not a confirmed commitment. Number of groups and whether all 18 Leads attend remain open (item 70).
 - Lead alignment organizer page considered settled; next focus: **Equip Guides**.
+
+### 82. Lead alignment settled at the design level — `position` [You + GPT]
+Nov 6. Evidence (what Leads know and need) → intervention (25-minute session, two cases) → outcome (shared recovery expectations, diagnostic coaching) → support (Lead one-pager + Lead Coaching Cues) → reinforcement (call reviews, huddles, Lead thread). The session calibrates how Leads support Guides; it doesn't teach Leads everything about WN7. Stop polishing the organizer; remaining unknowns are implementation dependencies.
+- **Carry forward — don't forget [You]:** **Lead thread owner is TBD.** Before the proposal is final, name who monitors the thread and routes unresolved questions, or the channel has no accountability [GPT]. Held proposal (item 71): Priya or a Lead she designates; verified updates relayed with a source tag; Learning curates, doesn't verify.
+- Not applied (GPT suggestion, optional): "Review Case(s)" under *Establish understanding* is now slightly misplaced — the cases are the bridge into alignment and could live only in the 9-minute agenda segment.
+- Implementation dependencies (not design blockers): Specialist availability · approved clips · Orbit screen and General Care access · pending-Plus wording.
+- Next: **02 — Equip Guides.**
