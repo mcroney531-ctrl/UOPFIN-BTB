@@ -536,3 +536,4 @@ Locked Nov 5, 2026, after two review rounds (`GAPS.md`):
   - **Delivery [You + GPT]:** email isn't success on its own. [You] Leads mention it in their huddles, alongside the email. [GPT] Leads introduce it, keep it on hand for coaching, and point Guides to it when the difficulty shows up.
   - **Complementary, not duplicate [GPT]:** R1 Lead one-pager helps Leads answer and coach consistently; R4 shows Guides how to read the eligibility tool. Neither restates `BH-4419`.
   - **Open, for later [GPT]:** does the video live inside or alongside `BH-4419` rather than as a standalone link?
+- **Link to R2 [You], Nov 6:** the "moving forward" close of the Lead meeting includes asking Leads to introduce the R4 video in their next huddle.
