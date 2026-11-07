@@ -684,3 +684,11 @@ Nov 7. **Leads (Moving Forward):** monitor and coach Guide execution during exis
 - [GPT] Leads verify *observed* execution in the calls they review, not proficiency across ~600 Guides — don't promise competency validation from a handful of reviews.
 - [GPT] Feedback loop for the rollout section: Guide practice → live application → Lead observation → coaching or escalation → intervention refinement.
 - Organizer now has stops 03 *Rollout & Reinforcement* and 04 *Ownership* (yours).
+
+### 87. Individual digital scenario replaces the proposed micro-huddle — `position` [You + GPT; Claude critique]
+Nov 7. Revises item 84.
+- **Scope [You]:** the digital scenario replaces only the separately proposed 3–5 minute micro-huddle. The **team huddle stays**, as the start of Lead–Guide alignment and dialogue, and the **sequence slide stays in it**. [Claude] I first framed this as replacing the whole huddle drill and suggested dropping the slide; you corrected that.
+- **Shape [GPT]:** Guide enters a decision in text, compares it to a model answer; standalone page; video optional in the same message. Lead action changes from "share the video in huddle" to introducing and reinforcing the practice; Guide action adds completing it and bringing one decision to a follow-up.
+- **Tightening [Claude]:** assign during scheduled work time rather than leaving it voluntary (Ben, Sep 10); budget the time with Workforce (Renee); 1:1s aren't documented, so say "next coaching conversation" or label it an assumption; keep the ineligible scenario as primary so no unapproved Plus wording is needed.
+- **Open:** hosting (Sana suggested, not confirmed); organizer wording for the Lead and Guide actions not yet changed.
+- Updated RESOURCES.md R8.
