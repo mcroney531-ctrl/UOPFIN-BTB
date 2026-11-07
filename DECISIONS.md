@@ -845,3 +845,9 @@ Nov 7. `TN-UOP-FIN/deliverables/wn7-coaching-cues.pdf` (1 page) with source `wn7
 - **Layout:** four move cards (Notice · Diagnose · Practice · Commit), each with a one-line purpose, two or three sample Lead lines, and one watch-out; four coaching moments (You notice / Ask / Move); a "Keep it going" strip; boundaries in the footer.
 - **Plus distinction made explicit** (item 106): "The call can close with explained, documented, owned follow-up. The Plus transaction is still outstanding; the recovery isn't finished."
 - **Introduced in drafting [Claude]:** the four moment titles and their "You notice" signals (the pause/hold/transfer signal comes from the Sep 24 transfer and the Sep 22 "which value" comment); the "If another Guide opened this case tomorrow…" documentation prompt; Dev's Sep 18 callback quote as the reason for the recap. The sample lines are written as illustrations, not scripts.
+
+### 108. Coaching Cues locked; Lead Alignment set complete — `position` [You]
+Nov 7. One correction, then locked. In "Unsure which Orbit result counts," the inferred signal (a long pause, hold or transfer) is replaced with: "During a call review or coaching conversation, the Guide expresses uncertainty about which Orbit result determines eligibility." Call timing has many causes and shouldn't be read as Orbit confusion. Ask and Move are unchanged; still one page.
+- Kept: the four moves, the Plus distinction, Dev's callback example, and the customer-explanation practice measured against approved guidance.
+- **Lead Alignment set complete:** meeting plan (item 104), Quick Reference (item 106), Coaching Cues (this item).
+- **Next: Guide-facing resources, starting with the Guide Call Path.**
