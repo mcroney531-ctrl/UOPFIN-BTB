@@ -826,3 +826,8 @@ Nov 7. Three corrections, no redesign:
 Nov 7. `TN-UOP-FIN/deliverables/wn7-lead-meeting-plan.pdf` (3 pages) approved and locked.
 - **Carry-forward note [GPT], not reopened:** the page 2 opening says "eligible General Care calls with a verified serial." The underlying data field records that a serial check happened, which doesn't prove the Guide understood the result. Case B makes that distinction already. If there's time in the final pass, "with a serial check recorded" would match the data more exactly.
 - Next: Lead one-pager.
+
+### 105. Lead Quick Reference (one-pager), first draft — `draft` [Claude, for your review]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-lead-quick-reference.pdf` (1 page) with source `wn7-lead-quick-reference-print.html`. A job aid for call reviews and coaching, not a meeting handout.
+- **Order on the page:** (1) the decision sequence with the six indicators inside each step, then the "recorded check isn't proof" warning, then the three branches; (2) a six-row "If you see… / Ask or check first / Then / Response" table, with a response key; (3) four Lead actions, plus "reach, not proficiency." Boundaries go in the footer.
+- **Introduced in drafting [Claude]:** an INVESTIGATE response type for "keeps troubleshooting after eligibility was verified," since the cause has to be found before choosing coach, escalate or flag; response labels differ in shape and fill, not only color (solid, outlined, dashed, pill, dotted); the question prompts come from LEAD_CASES Case B checks and the meeting plan.
