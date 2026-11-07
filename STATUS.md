@@ -37,7 +37,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | R2 Lead meeting · R1 one-pager · R5 Coaching Cues | Yes | Lead Alignment set complete |
 | R6 Guide Call Path | Yes | HTML + PDF |
 | R8 individual digital scenario | Yes | |
-| **R8 team huddle sequence slide** | Yes (item 130) | The only remaining learning resource. Referenced by the meeting plan, the Lead actions, the Call Path flow and the rollout plan (Pilot: "Leads run the team huddle with the sequence slide"). |
+| **R8 team huddle sequence slide** | Yes (item 130) | `wn7-huddle-slide.html` + `.pdf`; linked from the Resource Overview |
 | R3 shared Lead thread | n/a | Operational arrangement; covered in the rollout plan, no artifact needed |
 | R4 Orbit serial-tool video | Not planned to build | Optional and conditional on approved screen access; not a launch prerequisite |
 | R7 Plus FAQ in Beacon | Not ours to build | Partner-owned proposal (Content Editor + Plus owner); Learning proposes and hands off. Could be a one-paragraph handoff note in the Dana materials |
@@ -47,11 +47,10 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | ZIP packaging | **No** | Two clearly labeled parts: Dana's pre-read, and the interviewer note |
 
 ## Suggested order for what's left
-1. **Team huddle sequence slide** (small; completes the learner-facing set).
-2. **Dana's pre-read email** (orients her to the materials and the recommendation).
-3. **Interviewer note** (draws on DECISIONS.md, CALL_PATH_AUDIT.md and the corrections log).
-4. **ZIP packaging and final export check**, including the `assets/` path.
-5. Optional visual polish, only after everything else is locked (item 101 rule).
+1. **Dana's pre-read email** (orients her to the materials and the recommendation).
+2. **Interviewer note** (draws on DECISIONS.md, CALL_PATH_AUDIT.md and the corrections log).
+3. **ZIP packaging and final export check**, including the `assets/` path (logo and `ro-*.jpg`).
+4. Optional visual polish, only after everything else is locked (item 101 rule).
 
 ## Carry-forward notes for the final pass
 - Meeting plan p. 2: "with a verified serial" → "with a serial check recorded" (item 104).
