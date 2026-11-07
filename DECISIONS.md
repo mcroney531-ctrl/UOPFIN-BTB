@@ -803,3 +803,8 @@ Nov 7. `TN-UOP-FIN/deliverables/wn7-rollout-plan.pdf` (5 pages, Inter) is approv
 - "Draft for review" removed from the cover and footers; "Proposed design · owner confirmations pending" kept.
 - Account Systems / Product Ops vs. the organizer's broader policy-owner wording: not a contradiction [You]. The PDF names proposed validation partners and leaves final policy authority unconfirmed.
 - Next: the next deliverable. No further polish on this one.
+
+### 101. Package workflow rule; next deliverable — `position` [You]
+Nov 7. Rollout plan confirmed final (item 100).
+- **Rule for the whole Northstar package:** build each deliverable → review it for accuracy, instructional value, consistency and usability → lock it once it meets those standards → do an optional visual-polish pass only after the full package is complete, if time allows. Approved deliverables aren't reopened for cosmetic tweaks while others are unfinished.
+- **Next: Lead Alignment.** Order: (1) 25-minute Lead working meeting plan, then (2) Lead one-pager and (3) Lead Coaching Cues, all built around the same two cases (Case A, Case B; `LEAD_CASES.md`) so the resources stay aligned without duplicated work. Implementation prompt to follow.
