@@ -13,7 +13,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 2. Where things stand (Nov 7)
 - **Locked:** Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
-- **In review:** Resource Overview, `deliverables/wn7-resource-overview.html` (items 115–117). Three sections (A Leads, B Guides, C Huddle Support); the two overviews are separate files in the ZIP. Structure approved; screenshots wait for the visual pass; its links assume it sits next to the deliverables in the ZIP.
+- **In review:** Resource Overview, `deliverables/wn7-resource-overview.html` (items 115–117). Three sections (I Leads, II Guides, III Huddle Support); the two overviews are separate files in the ZIP. Structure approved; screenshots wait for the visual pass; its links assume it sits next to the deliverables in the ZIP.
 - **Still to do, in this order:**
   1. Ownership Map Overview (one page).
   2. Rollout Overview (one page).
