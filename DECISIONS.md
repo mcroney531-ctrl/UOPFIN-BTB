@@ -1005,3 +1005,12 @@ Nov 7. `TN-UOP-FIN/email/wn7-dana-pre-read-email.md`. Not sent. A persuasion and
   4. Sender is "[Name], Learning Experience Design": the user fills in their name.
   5. "Log it as Draft in the organizer": the organizer was frozen as the design baseline at item 95, so the draft is logged here, in STATUS.md and in HANDOFF.md instead.
 - Stopped for review; not locked.
+
+### 132. Dana pre-read email, revision — `draft` [You + GPT review; Claude revision]
+Nov 7. One targeted revision of item 131; structure unchanged. About 1,000 words cut to about 790.
+1. **Evidence tightened:** keeps 115 of 204 and 70 of 159 with the recorded-check caveat; the Sep 22 / Sep 24 Orbit anecdotes and the 76 / 13 split move out (they're in the full plan). "Awareness isn't the main obstacle" is now "awareness alone doesn't appear to explain the gap," plus "this isn't a proven root cause."
+2. **Quotes cut to two:** Micah's operational example and Priya's four-part diagnosis stay; Imani and Asha are removed; Marisol is paraphrased. The upset-caller link is kept as one unquoted sentence.
+3. **Leads-first section kept whole,** including the documented-case / composite distinction.
+4. **What's Included** keeps the three-folder structure with shorter descriptions.
+5. **Closing:** the Priya and Mateo sharing line is removed; it now invites Dana's reaction to the approach and its assumptions.
+- Stopped for review; likely lock next.
