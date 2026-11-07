@@ -15,12 +15,12 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 - **Locked:** Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
 - **In review:** Resource Overview, `deliverables/wn7-resource-overview.html` (items 115–121). Three sections ("Resources for Leads", "Resources for Guides", "Huddle Support", with "Section A/B/C – N resources" in the small label; Guides sits on a soft blue tint), then a tinted "Pending Approval" section for the two partner-dependent items; the two overviews are separate files in the ZIP. Overlays carry a compact Northstar banner. Content-complete; waiting only on the user's artwork for the six placeholder visuals, then lock; its links assume it sits next to the deliverables in the ZIP.
 - **Still to do, in this order:**
-  2. Rollout Overview (one page).
-  3. Huddle Sequence Slide.
-  4. Dana's pre-read email.
-  5. Interviewer note.
-  6. ZIP packaging.
-  7. Optional visual polish, last.
+  1. Rollout Overview (one page).
+  2. Huddle Sequence Slide.
+  3. Dana's pre-read email.
+  4. Interviewer note.
+  5. ZIP packaging.
+  6. Optional visual polish, last.
 - **Deadline pressure:** Dana's email is the time-critical item, and the brief requires it.
 
 ## 3. How we work
