@@ -1048,3 +1048,4 @@ Nov 7. Editorial refinement from the user's annotated review; narrative, evidenc
 - **Heading [You]:** "Why I'm proposing more than a video" is now "Beyond training alone" (sentence case, like the other headings).
 - **Wording [You]:** "a guide to the attached package" is now "a guide to the attached proposal package".
 - **Marisol sentence [You]:** now "It also aligns with Marisol's October 1 guidance: additional learning time is worth considering if it improves Guide performance without compromising service levels, provided there's evidence to support the approach." [Claude] Checked against the Oct 1 check-in: "five minutes is not a ceiling… If more time would help Guides handle these calls and we can protect service levels, I am open to it… I need a reason to believe it will work."
+- **Emphasis [You]:** "a small set of connected supports rather than one course" is bolded.
