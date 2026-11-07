@@ -984,3 +984,12 @@ Nov 7. `TN-UOP-FIN/deliverables/wn7-huddle-slide.html` (source) and `wn7-huddle-
   3. **Where to find things:** the practice's delivery route (Sana or approved link) isn't confirmed yet (Learning Operations), so the slide names "Make the Call" without a location or link. A link or location can be added once confirmed.
   4. **Presenter notes** are not included, to keep scope to one slide; the Lead Meeting Plan already prepares Leads to present it.
 - Test suite: `tools/tests/huddle-slide.test.js` (32 checks at 1920×1080, 1280×720 and phone width; Claude's automated suite). The Resource Overview's huddle card keeps "In development" until the slide is locked. Stopped for review.
+
+### 130. Huddle Sequence Slide locked — `position` [You]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-huddle-slide.html` + `.pdf` approved and locked after one wording correction to the Complete card.
+- **Complete card now reads:** "For an eligible serial, both: Replacement: confirmation number · Plus credit: shows `Applied` · Either still open? Recovery isn't complete. Keep the case open." It replaces "Either missing? Not complete."
+- **Correction history [GPT → Claude → You]:** GPT first proposed "Plus credit (if applicable)". [Claude] flagged that this contradicts the packet: Finance, Sep 10 ("Both parts are approved for eligible households. Do not make Guides choose one or the other."); PO-117 ("A completed replacement order with a missing Plus credit is an incomplete recovery."); Finance at the Sep 23 review; and the locked Call Path ("Complete both"). [You + GPT] chose to keep both required and make the eligible-path scope explicit instead. No source conflict logged; the Call Path isn't reopened.
+- **Item 129 choices confirmed:** "No clear result" (matches the Call Path); recognition cue, "listen for the impact first" and the Plus reminder included.
+- Spacing tightened slightly so the extra line fits; still 16:9 with nothing overflowing at 1920×1080 or 1280×720, and the phone layout unchanged. PDF rebuilt (tagged).
+- **Resource Overview:** the huddle card's "In development" badge is removed and the card now links "Open the slide" (HTML) and "PDF version", per item 128. Its test now expects 8 resource links.
+- Suites: huddle slide 32 checks, Resource Overview 26 checks, all passing (Claude's automated suites). All learning resources are now built and locked. Next: Dana's pre-read email.

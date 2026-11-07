@@ -27,7 +27,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | **Locked** | 115–121, 127–128 |
 | Ownership Map Overview | `wn7-ownership-map.html` (single page; same folder in the ZIP) | **Locked** | 124 |
 | Rollout Plan Overview | `wn7-rollout-overview.html` (single page; links to the Ownership Map and the plan PDF, so same folder in the ZIP) | **Locked** | 125–126 |
-| Huddle Sequence Slide | `wn7-huddle-slide.html` (source) + `.pdf` (1 widescreen page) | First draft, in review | 129 |
+| Huddle Sequence Slide | `wn7-huddle-slide.html` (source) + `.pdf` (1 widescreen page) | **Locked** | 129–130 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
 
 ## Reconciling the plan against what's built
@@ -37,7 +37,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | R2 Lead meeting · R1 one-pager · R5 Coaching Cues | Yes | Lead Alignment set complete |
 | R6 Guide Call Path | Yes | HTML + PDF |
 | R8 individual digital scenario | Yes | |
-| **R8 team huddle sequence slide** | **No** | The only remaining learning resource. Referenced by the meeting plan, the Lead actions, the Call Path flow and the rollout plan (Pilot: "Leads run the team huddle with the sequence slide"). |
+| **R8 team huddle sequence slide** | Yes (item 130) | The only remaining learning resource. Referenced by the meeting plan, the Lead actions, the Call Path flow and the rollout plan (Pilot: "Leads run the team huddle with the sequence slide"). |
 | R3 shared Lead thread | n/a | Operational arrangement; covered in the rollout plan, no artifact needed |
 | R4 Orbit serial-tool video | Not planned to build | Optional and conditional on approved screen access; not a launch prerequisite |
 | R7 Plus FAQ in Beacon | Not ours to build | Partner-owned proposal (Content Editor + Plus owner); Learning proposes and hands off. Could be a one-paragraph handoff note in the Dana materials |
