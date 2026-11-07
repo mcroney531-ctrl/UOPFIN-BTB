@@ -908,3 +908,6 @@ Nov 7. Structure approved; not locked yet.
 
 ### 117. Related Plans removed from the Resource Overview — `position` [You]
 Nov 7. The Ownership Map Overview and Rollout Overview are separate documents that go alongside the Resource Overview in the ZIP, not sections inside it. Section 04 is removed; the page now has 01 Lead, 02 Guide, 03 Team Huddle, then the "Proposed alongside" note. The proposal note still points to the Rollout Overview, which ships in the same package.
+
+### 118. Resource Overview section labels — `position` [You]
+Nov 7. The three sections are now lettered A · Leads, B · Guides, C · Huddle Support. The numbered labels nested confusingly with the 01/02/03 resource numbers inside each section. "Huddle Support" is a working name until a better one is chosen.
