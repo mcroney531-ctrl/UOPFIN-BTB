@@ -136,7 +136,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Job:** practice the decision, not just see the sequence. Closes the practice gap from item 76.
 - **Scenario:** primary — ineligible WN7 (recognizing the pattern doesn't establish eligibility; also avoids unapproved Plus wording); follow-up — pending Plus, only once wording is approved.
 - **Format:** Guide types a decision/response, then compares it to a model answer. No AI scoring.
-- **When:** assigned during scheduled work time, not voluntary (Ben, Sep 10: "The people who need this most may not volunteer for practice"). Time budget goes to Workforce (Renee).
+- **When:** assigned during scheduled work time, not voluntary (Ben, Sep 16: "The people who need this most may not volunteer for practice"). Time budget goes to Workforce (Renee).
 - **After:** Guide brings one decision or question to the next coaching conversation with their Lead. *(Assumption: the packet doesn't document a 1:1 cadence; framed as "next coaching conversation.")*
 - **Video (R4):** optional link in the same launch message, if approved.
 
