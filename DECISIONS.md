@@ -831,3 +831,11 @@ Nov 7. `TN-UOP-FIN/deliverables/wn7-lead-meeting-plan.pdf` (3 pages) approved an
 Nov 7. `TN-UOP-FIN/deliverables/wn7-lead-quick-reference.pdf` (1 page) with source `wn7-lead-quick-reference-print.html`. A job aid for call reviews and coaching, not a meeting handout.
 - **Order on the page:** (1) the decision sequence with the six indicators inside each step, then the "recorded check isn't proof" warning, then the three branches; (2) a six-row "If you see… / Ask or check first / Then / Response" table, with a response key; (3) four Lead actions, plus "reach, not proficiency." Boundaries go in the footer.
 - **Introduced in drafting [Claude]:** an INVESTIGATE response type for "keeps troubleshooting after eligibility was verified," since the cause has to be found before choosing coach, escalate or flag; response labels differ in shape and fill, not only color (solid, outlined, dashed, pill, dotted); the question prompts come from LEAD_CASES Case B checks and the meeting plan.
+
+### 106. Lead Quick Reference locked — `position` [You]
+Nov 7. `wn7-lead-quick-reference.pdf` (1 page) approved and locked; it passes the ten-second test. All three drafting choices kept:
+- **INVESTIGATE** stays as a response type. Coaching before the cause is found is the mistake we're trying to prevent.
+- **Question prompts** stay. The overlap with the facilitator guide is intentional, because Leads need the questions after the meeting.
+- **Plus follow-up wording** stays. It says what must happen without inventing an owner or procedure.
+- **Carry into Coaching Cues:** the Complete step could be read as treating documented follow-up as a fully completed recovery (the eligible branch already clarifies this). Coaching Cues should say it explicitly: the call can close with owned follow-up, but the unresolved transaction is still outstanding.
+- **Next: Coaching Cues.** A companion resource on how Leads run short, behavior-specific coaching conversations. Not another decision tree.
