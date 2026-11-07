@@ -896,3 +896,12 @@ Nov 7. Started from your current file (`resource-package_2.html`), kept its desi
 - **Removed:** How the Pieces Fit, Who Owns What, What It Takes to Roll Out, Still open, and the Plus FAQ and Orbit video cards. Those topics move to the Ownership Map Overview and the Rollout Overview, or to one short note.
 - **Structure [GPT, you agreed]:** 01 Lead Resources (Meeting Plan, Quick Reference, Coaching Cues) · 02 Guide Resources (Call Path, Make the Call) · 03 Team Huddle (Huddle Sequence Slide, marked "In development") · 04 Related Plans (Ownership Map Overview, Rollout Overview, both "linked when ready") · a short "Proposed alongside, not part of this package" note (Plus FAQ, Orbit video).
 - **Each card and "See more" panel** now matches its locked deliverable, and the "Why it exists" reasoning is kept and updated. The intro is rewritten around the five-step sequence. The visual placeholders stay until the polish pass.
+
+### 116. Resource Overview corrections — `draft` [You + GPT; Claude build]
+Nov 7. Structure approved; not locked yet.
+- **Open links:** each finished resource card has an "Open" link next to "See more" (meeting plan, Quick Reference and Coaching Cues PDFs; Call Path HTML plus print version; practice scenario). They open in a new tab. **Packaging dependency:** the links are relative, so the Resource Overview must sit in the same folder as those files in the ZIP.
+- **Proposal note** under the intro: "A proposal for review, not a launch-ready kit. Operational details are validated with their owners and delivery is approved before anything is used."
+- **Practice sourcing:** the design draws on the Sep 24 call; the model responses are grounded in approved guidance (BH-4419, PO-117) and validated by Quality and Specialist Care before release.
+- **Meeting plan delivery** is labeled proposed: timing, attendance and Specialist support are confirmed with Care leadership, Workforce and Specialist Care.
+- **Tone [You]:** removed "the existing huddle stays"-style process language; the huddle section now reads as plain description.
+- **Deferred to the visual pass:** real screenshots in place of "Visual TBD." The huddle slide stays "In development" until it's built.
