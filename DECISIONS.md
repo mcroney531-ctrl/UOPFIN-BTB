@@ -778,3 +778,6 @@ Nov 7. Stops 01–04 (organizer v621) are the design baseline for the deliverabl
 
 ### 96. ARCHITECTURE.md retired — `position` [You]
 Nov 7. The draft intervention architecture has been superseded by the locked organizer baseline (item 95), RESOURCES.md, and items 64–95. Removed from the repo; it's still in git history (last present in commit 01cb0a2). Earlier references to it in this log are kept as history.
+
+### 97. Rollout plan, first draft built — `draft` [Claude, for your review]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-rollout-plan.html` (commit 77adfbb), built from organizer stops 03–04, RESOURCES.md and items 88–95. Not reviewed yet. Choices not previously decided are listed in the build report: the `deliverables/` folder, borrowing the organizer's look (the project had no design system yet), the illustrative star mark, the "What's being rolled out" strip, the "will and won't claim" panel, and the closing confirmations list. Source note: the 204 calls are from the Orbit call sample (systematic sample; "eligible" is a retrospective label), not a Quality review.
