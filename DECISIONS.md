@@ -768,3 +768,10 @@ Nov 7. Approved as proposed design choices; no new commitments.
 - **03 Pilot observation:** Quality can observe and review live WN7 calls as soon as they occur; sufficient live-call exposure and comparable evidence are needed before performance conclusions or an expansion recommendation, not before observation starts. Continue gate no longer waits on call volume; the Observe & Adjust Proceed gate now references it. Delivery measures still never stand in for demonstrated execution.
 - 03 Expand and Sustain lines aligned (dual approval; Learning updates Lead resources too).
 - Ownership-design pass closed. Next: the proposal deliverables (not started).
+
+### 95. Organizer locked as the working design baseline — `position` [You + GPT]
+Nov 7. Stops 01–04 (organizer v621) are the design baseline for the deliverables. Further changes come through the deliverables, not by reopening the organizer.
+- **Strengths noted [GPT]:** clear decision authority (Care leadership owns progression; Workforce controls whether each wave is operationally feasible); credible evaluation (the 204-call baseline is kept separate from the six behavioral indicators, and observation starts with live calls, not training completion); realistic constraints (no invented targets, guaranteed Specialist coverage or automatic expansion).
+- **Carry into deliverables (organizer not reopened):** complete recovery is a documented outcome, not proof that the customer had a lasting resolution; repeat contacts help test that, where measurable.
+- **Sequence:** one deliverable at a time, with review between each. (1) **Rollout plan**, built on stop 03 but more executive-facing: five phases, major actions, accountable partners, evidence, decision gates; detailed dependencies stay in the organizer. (2) Then check the Lead resources, Guide Call Path and proposal presentation against that plan.
+- Status: nothing built yet.
