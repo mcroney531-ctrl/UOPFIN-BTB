@@ -58,3 +58,10 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 - `UOPFIN-BTB/CALL_PATH_AUDIT.md`: the PO-117 source audit and its open gaps.
 - `UOPFIN-BTB/RESOURCES.md`, `LEAD_CASES.md`, `WORKBOOKS.md`, `QUOTES.md`: resource decisions, Case A/B, workbook figures, verified quotes.
 - `TN-UOP-FIN/deliverables/`: all deliverables and print sources.
+
+## 5. Keeping this current
+After every lock, new deliverable or process change, update in the same commit:
+- `DECISIONS.md`: the new item.
+- `STATUS.md`: the deliverables table and the remaining order of work.
+- This file: section 2 (where things stand), plus the last item number in sections 3 and 4.
+- Any new tools or tests go in `TN-UOP-FIN/tools/`, not the session scratch space.
