@@ -775,3 +775,6 @@ Nov 7. Stops 01–04 (organizer v621) are the design baseline for the deliverabl
 - **Carry into deliverables (organizer not reopened):** complete recovery is a documented outcome, not proof that the customer had a lasting resolution; repeat contacts help test that, where measurable.
 - **Sequence:** one deliverable at a time, with review between each. (1) **Rollout plan**, built on stop 03 but more executive-facing: five phases, major actions, accountable partners, evidence, decision gates; detailed dependencies stay in the organizer. (2) Then check the Lead resources, Guide Call Path and proposal presentation against that plan.
 - Status: nothing built yet.
+
+### 96. ARCHITECTURE.md retired — `position` [You]
+Nov 7. The draft intervention architecture has been superseded by the locked organizer baseline (item 95), RESOURCES.md, and items 64–95. Removed from the repo; it's still in git history (last present in commit 01cb0a2). Earlier references to it in this log are kept as history.

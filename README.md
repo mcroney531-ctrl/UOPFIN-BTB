@@ -11,7 +11,6 @@ Behind-the-build record for the take-home project built in `TN-UOP-FIN`. This re
 | [`RESOURCES.md`](RESOURCES.md) | Deliverables actually decided on, with status |
 | [`LEAD_CASES.md`](LEAD_CASES.md) | Design notes for the two Lead-meeting cases: prompts, takeaways, next checks, confirmations needed |
 | [`QUOTES.md`](QUOTES.md) | Every flagged quote, chronological, standalone (session + reader notes) |
-| [`ARCHITECTURE.md`](ARCHITECTURE.md) | Draft one-page intervention architecture, for review |
 
 **Conventions**
 - Sources are cited by packet file and timestamp; quotes are exact unless marked as a note-taker's summary.

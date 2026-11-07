@@ -1,6 +1,6 @@
 # Resources
 
-Deliverables you've actually decided on. One entry per resource. Ideas and drafts stay in `DECISIONS.md` / `ARCHITECTURE.md` until decided here.
+Deliverables you've actually decided on. One entry per resource. Ideas and drafts stay in `DECISIONS.md` until decided here.
 
 **Status key:** Decided · In progress · Built · Final
 
