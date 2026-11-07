@@ -10,6 +10,7 @@ Behind-the-build record for the take-home project built in `TN-UOP-FIN`. This re
 | [`GAPS.md`](GAPS.md) | Gap synthesis, dependencies, not-targeting list, and the five locked core targets (end of file) |
 | [`RESOURCES.md`](RESOURCES.md) | Deliverables actually decided on, with status |
 | [`LEAD_CASES.md`](LEAD_CASES.md) | Design notes for the two Lead-meeting cases: prompts, takeaways, next checks, confirmations needed |
+| [`HANDOFF.md`](HANDOFF.md) | Start here in a new session: setup, current state, working rules |
 | [`STATUS.md`](STATUS.md) | Current package status: organizer state, deliverables, what is left |
 | [`CALL_PATH_AUDIT.md`](CALL_PATH_AUDIT.md) | PO-117 source audit for the Guide Call Path |
 | [`QUOTES.md`](QUOTES.md) | Every flagged quote, chronological, standalone (session + reader notes) |
