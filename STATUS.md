@@ -44,11 +44,11 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | R7 Plus FAQ in Beacon | Not ours to build | Partner-owned proposal (Content Editor + Plus owner); Learning proposes and hands off. Could be a one-paragraph handoff note in the Dana materials |
 | 04 Ownership | Covered | Inside the rollout plan, page 5 |
 | **Dana's pre-read email** (required by the brief) | Yes (item 133) | Orients Dana to the materials, the recommended direction, and where to look first |
-| **Interviewer note** (required by the brief, separate from Dana's materials) | **No** | Approach, harness use, sources, checks and corrections, uncertainties, with concrete examples |
+| **Interviewer note** (required by the brief, separate from Dana's materials) | In progress: Checkpoint A (item 137) | Approach, harness use, sources, checks and corrections, uncertainties, with concrete examples |
 | ZIP packaging | **No** | Two clearly labeled parts: Dana's pre-read, and the interviewer note |
 
 ## Suggested order for what's left
-1. **Interviewer note** (draws on DECISIONS.md, CALL_PATH_AUDIT.md and the corrections log).
+1. **Interviewer note + Design Decision Log**: Checkpoint A drafted (item 137); production after review.
 2. **ZIP packaging and final export check** in three folders (01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources; item 131), with relative links re-tested and `assets/` (logo and `ro-*.jpg`) placed where the HTML expects it.
 3. Optional visual polish, only after everything else is locked (item 101 rule).
 
