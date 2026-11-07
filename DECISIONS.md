@@ -813,3 +813,11 @@ Nov 7. Rollout plan confirmed final (item 100).
 Nov 7. `TN-UOP-FIN/deliverables/wn7-lead-meeting-plan.pdf` (3 pages, Inter, same print conventions as the rollout plan); source `wn7-lead-meeting-plan-print.html`.
 - **Case safeguards applied [You]:** Plus credit "had not been applied" at the documented point (not pending or failed); Account Systems and Product Ops are proposed validators of transaction status and wording, with Specialist Care input; no follow-up owner is named, and Leads identify what needs an owner; the written cases are sufficient, with a recording optional if available and approved; no Orbit screen details, and Care Systems confirms the workflow.
 - **Introduced in drafting [Claude]:** the opening stat is the serial-verified cut (70 of 159, 44%; `WORKBOOKS.md`) rather than 115 of 204, because it shows the eligibility-check-to-action gap the brief asks for; Case A ≈ 4 min / B ≈ 5 min (from LEAD_CASES); a pre-meeting checklist; mapping the five sequence steps to the six indicators; a "Plus action unresolved at call end → follow-up" row in the response table; small groups only if Specialist support is approved, otherwise one group; Ben's and Imani's cue shown as an internal prompt, not approved wording.
+
+### 103. Lead meeting plan corrections — `position` [You]
+Nov 7. Three corrections, no redesign:
+1. **Case B:** "What would you ask or check first, before deciding how to coach?" is the required question; the other three are optional probes if time allows. Both reference boxes kept.
+2. **Escalation:** access, permission or process blockers use the established escalation route to Care Systems, and recurring blockers are shared in the temporary Lead thread. The thread isn't the operational escalation route.
+3. **Indicators:** Communication and Documentation now show as separate labels under Explain & Document; the five-step sequence is unchanged.
+- The 70-of-159 (44%) opening figure is kept on purpose: it focuses Leads on the gap between verification and action.
+- Ready to lock; next is the Lead one-pager.
