@@ -839,3 +839,9 @@ Nov 7. `wn7-lead-quick-reference.pdf` (1 page) approved and locked; it passes th
 - **Plus follow-up wording** stays. It says what must happen without inventing an owner or procedure.
 - **Carry into Coaching Cues:** the Complete step could be read as treating documented follow-up as a fully completed recovery (the eligible branch already clarifies this). Coaching Cues should say it explicitly: the call can close with owned follow-up, but the unresolved transaction is still outstanding.
 - **Next: Coaching Cues.** A companion resource on how Leads run short, behavior-specific coaching conversations. Not another decision tree.
+
+### 107. Coaching Cues, first draft — `draft` [Claude, for your review]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-coaching-cues.pdf` (1 page) with source `wn7-coaching-cues-print.html`. A conversation aid that sits beside the Quick Reference.
+- **Layout:** four move cards (Notice · Diagnose · Practice · Commit), each with a one-line purpose, two or three sample Lead lines, and one watch-out; four coaching moments (You notice / Ask / Move); a "Keep it going" strip; boundaries in the footer.
+- **Plus distinction made explicit** (item 106): "The call can close with explained, documented, owned follow-up. The Plus transaction is still outstanding; the recovery isn't finished."
+- **Introduced in drafting [Claude]:** the four moment titles and their "You notice" signals (the pause/hold/transfer signal comes from the Sep 24 transfer and the Sep 22 "which value" comment); the "If another Guide opened this case tomorrow…" documentation prompt; Dev's Sep 18 callback quote as the reason for the recap. The sample lines are written as illustrations, not scripts.
