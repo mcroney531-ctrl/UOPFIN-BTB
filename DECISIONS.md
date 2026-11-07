@@ -851,3 +851,9 @@ Nov 7. One correction, then locked. In "Unsure which Orbit result counts," the i
 - Kept: the four moves, the Plus distinction, Dev's callback example, and the customer-explanation practice measured against approved guidance.
 - **Lead Alignment set complete:** meeting plan (item 104), Quick Reference (item 106), Coaching Cues (this item).
 - **Next: Guide-facing resources, starting with the Guide Call Path.**
+
+### 109. Guide Call Path, first draft — `draft` [Claude, for your review]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-guide-call-path.html` (mobile-first, no storage, works without JavaScript) plus a 1-page PDF companion (`wn7-guide-call-path.pdf`, source `-print.html`).
+- **Source finding:** no earlier Call Path draft existed in the project, so this is built from R6, stop 02 and the Lead resources. The packet's Sep 24 care desk bulletin (Product Operations reference PO-117, linked from BH-4419) is the approved operational reference, so I used it for the panel name (`WN7 eligibility`), the result values (`Eligible` / `Not eligible`), the serial location (app or hub), the order confirmation number, the credit showing `Applied`, "keep the case open… unresolved recovery queue," the eligibility review case, "don't ask for restart steps," and "Plus is a goodwill benefit, not a repair." Each is attributed to BH-4419. This is consistent with item 47 ("name the `WN7 eligibility` panel; don't invent click paths"). No click paths, field locations or timing are invented.
+- **Navigation:** sticky five-step bar; one result picker (Eligible / Not eligible / No clear result) that shows only the chosen path, with a "Change result" control; keyboard and screen-reader support; all three paths show if JavaScript is off.
+- **Introduced in drafting [Claude]:** Decide and Complete merged into one section, driven by the result picker; "No clear result" as the third button label; the "open item stays open" box in red dashed outline.
