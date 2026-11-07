@@ -24,7 +24,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Lead Coaching Cues | `wn7-coaching-cues.pdf` (1 p) + `-print.html` | **Locked** | 108 |
 | Guide Call Path | `wn7-guide-call-path.html` (interactive) + `.pdf` (1 p) + `-print.html` | **Locked** | 111 |
 | Digital practice scenario "Make the Call" | `wn7-practice-scenario.html` | **Locked** | 114 |
-| Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | Content-complete; locks once the user's artwork replaces the six placeholder visuals | 115–121 |
+| Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | Artwork in place (`assets/ro-*.jpg`); ready to lock | 115–121, 127 |
 | Ownership Map Overview | `wn7-ownership-map.html` (single page; same folder in the ZIP) | **Locked** | 124 |
 | Rollout Plan Overview | `wn7-rollout-overview.html` (single page; links to the Ownership Map and the plan PDF, so same folder in the ZIP) | **Locked** | 125–126 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
