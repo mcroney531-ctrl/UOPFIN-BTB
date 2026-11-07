@@ -956,3 +956,10 @@ Nov 7. `TN-UOP-FIN/deliverables/wn7-rollout-overview.html`, the third front-door
   3. **Recovery and operational measures** sit under "Before expanding", matching the plan p. 5 ("before evaluation") and the Ownership Map.
 - **Kept from the plan, no new commitments:** no dates, durations, thresholds or pass marks; 2–3 Lead teams as proposed scope with Workforce confirming; dual approval per wave; Adjust as the usual response to mixed results; not all 18 Leads before the pilot; footer says the full plan governs where they differ.
 - Test suite: `tools/tests/rollout-overview.test.js` (20 checks, desktop and mobile; Claude's automated suite). Stopped for review; not locked or packaged.
+
+### 126. Rollout Plan Overview locked — `position` [You]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-rollout-overview.html` approved and locked after targeted corrections; structure and visual direction unchanged.
+1. **Guide headcount resolved [You]:** approximately 900, from the two packet references (Renee, Sep 5; Dana, Oct 1). The brief's "~600" was wrong. No longer an open conflict; the draft already said "roughly 900".
+2. **Thread Admin carried through consistently [You]:** the locked plan's five readiness conditions stay intact and the plan isn't reopened. The overview now lists the five conditions under Decision Points › Before the pilot, and condition 4 reads "Lead alignment and a working support and fallback route · Care leadership. A designated thread Admin is part of this condition only if the temporary Lead thread opens." The Prepare gate points to that list; the separate Admin row under "Only if used" is removed so it isn't stated twice. Changing the plan itself would need a separate decision.
+3. **Completion evidence [You]:** "anything not showing `Applied` is still open" now refers to the Plus credit only: "the order needs a confirmation number, and a Plus credit that doesn't show `Applied` is still open" (PO-117 steps 2–3).
+- 20-check automated suite passes. Next: Huddle Sequence Slide.
