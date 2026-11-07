@@ -821,3 +821,8 @@ Nov 7. Three corrections, no redesign:
 3. **Indicators:** Communication and Documentation now show as separate labels under Explain & Document; the five-step sequence is unchanged.
 - The 70-of-159 (44%) opening figure is kept on purpose: it focuses Leads on the gap between verification and action.
 - Ready to lock; next is the Lead one-pager.
+
+### 104. Lead meeting plan locked — `position` [You + GPT]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-lead-meeting-plan.pdf` (3 pages) approved and locked.
+- **Carry-forward note [GPT], not reopened:** the page 2 opening says "eligible General Care calls with a verified serial." The underlying data field records that a serial check happened, which doesn't prove the Guide understood the result. Case B makes that distinction already. If there's time in the final pass, "with a serial check recorded" would match the data more exactly.
+- Next: Lead one-pager.
