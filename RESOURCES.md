@@ -13,7 +13,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 | R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
 | R6 | Guide Call Path | Guides | Simple step overview to stay on track mid-call; points to Beacon and the Orbit tool; Plus reminder | Decided | Nov 6 | item 76 |
 | R7 | Plus FAQ inside Beacon | Guides (built by Content Editor + Plus owner) | Question-first Plus answers searchable mid-call; Call Path links here | Proposed to partner | Nov 6 | item 77 |
-| R8 | Team huddle + sequence slide → individual digital scenario | Guides (Lead-introduced) | Huddle starts Lead–Guide alignment with the slide; individual scenario forces a decision; Call Path does the in-call work | Decided (hosting open) | Nov 7 | items 84, 87 |
+| R8 | Team huddle + sequence slide → individual digital scenario | Guides (Lead-introduced) | Huddle starts Lead–Guide alignment with the slide; individual scenario forces a decision; Call Path does the in-call work | Decided (readiness checks open) | Nov 7 | items 84, 87 |
 
 ---
 
@@ -132,17 +132,25 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 - **Lead also:** introduces the scenario practice, shows where to find it and the Call Path.
 - **Not:** a second Call Path or a procedural reference.
 
-**2. Individual digital scenario (replaces the proposed micro-huddle)**
+**2. Individual digital scenario, in or through Sana (replaces the proposed micro-huddle)**
 - **Job:** practice the decision, not just see the sequence. Closes the practice gap from item 76.
 - **Scenario:** primary — ineligible WN7 (recognizing the pattern doesn't establish eligibility; also avoids unapproved Plus wording); follow-up — pending Plus, only once wording is approved.
-- **Format:** Guide types a decision/response, then compares it to a model answer. No AI scoring.
-- **When:** assigned during scheduled work time, not voluntary (Ben, Sep 16: "The people who need this most may not volunteer for practice"). Time budget goes to Workforce (Renee).
-- **After:** Guide brings one decision or question to the next coaching conversation with their Lead. *(Assumption: the packet doesn't document a 1:1 cadence; framed as "next coaching conversation.")*
-- **Video (R4):** optional link in the same launch message, if approved.
+- **Format:** Guide writes a free-text decision, then compares it with an approved model response. No scoring.
+- **Access:** Sana is the assignment and access point. Whether the exercise runs natively in Sana or is linked from it is for Learning Operations to confirm. Either way, no new infrastructure unless needed.
+- **Tracking:** Sana may record that a Guide opened or finished it. Completion is an operational measure, not evidence of competence. Written responses stay private and ungraded.
+- **When:** assigned during scheduled work time, not voluntary (Ben, Sep 16: "The people who need this most may not volunteer for practice").
+- **Video (R4):** optional link in the same launch, if approved.
 
-**Flow:** team huddle (slide) → individual scenario → next coaching conversation → Call Path on live calls → Lead call reviews (item 86).
+**3. Live Call Path application:** Guides use approved guidance on live calls right away, with the usual support routes. The coaching conversation doesn't have to happen first.
 
-**Open:** hosting (Sana suggested — Learning Operations to confirm); time per Guide; which Leads run it first (pilot scope).
+**4. Lead coaching + call review:** discuss one decision or uncertainty from the practice, observe execution, address gaps (item 86). *(The packet doesn't document a 1:1 cadence, so this is worded as "next coaching conversation.")*
+
+**Flow (locked):** team huddle + slide → individual scenario in or through Sana → live Call Path application → Lead coaching + call review.
+
+**Readiness checks (not design decisions):**
+- Sana delivery: can it support free-text entry with a reveal-and-compare? If not, link the exercise from Sana. *(Learning Operations)*
+- Practice time scheduled for each Guide. *(Workforce, Renee)*
+- Pilot scope: which Leads run it first.
 
 ---
 
