@@ -940,3 +940,9 @@ Nov 7. Visual structure approved; one targeted content pass, no redesign.
 - **Kept [You + GPT]:** "Ownership Map Overview" in the banner; confirmed background rows where they add context; Customer Communications left out.
 - **Flag [Claude]:** the locked rollout plan p. 5 lists "Lead alignment, live support route, thread Admin" under before-pilot-required. This page now treats the Admin as needed only if the thread opens. Not a contradiction if the thread is part of the pilot, but the two read differently; the rollout plan isn't reopened (item 101).
 - 16-check automated suite passes. Stopped for review.
+
+### 124. Ownership Map Overview locked — `position` [You]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-ownership-map.html` approved and locked after the item 123 content pass, with one wording change: the first row heading in all four cards is now "Primary responsibilities" instead of "Leads", so it isn't confused with the Team Lead role.
+- **Thread Admin mismatch (item 123 flag) resolved [You + GPT]:** keep the conditional wording ("only if the temporary Lead thread opens"). It's more precise than requiring an Admin for a thread that may not open. The locked rollout plan isn't reopened.
+- 16-check automated suite passes (test updated for the new heading).
+- Next: Rollout Overview (one page).
