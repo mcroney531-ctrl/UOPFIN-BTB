@@ -8,7 +8,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 |---|---|---|---|---|---|---|
 | R1 | Lead one-pager | Team Leads | Takeaway from the Lead alignment meeting | Decided | Nov 6 | item 68 |
 | R2 | Team Lead working meeting (25 min) | Team Leads | Build shared understanding through cases; calibrate what to coach | Decided (length + agenda) | Nov 6 | items 69, 79 |
-| R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided — temporary Admin **proposed: Priya, pending confirmation** | Nov 7 | items 71, 82, 92 |
+| R3 | Shared Lead coordination thread | Team Leads | Questions, blockers, coaching observations, verified updates after the meeting | Decided — temporary Admin: **a participating Lead, designated by Care leadership and confirmed during Prepare** | Nov 7 | items 71, 82, 92, 93 |
 | R4 | Serial-number / Orbit tool video (2–3 min) | Guides | Optional resource: when to check the serial, where the result is, what happens next | Decided — conditional on Orbit screen + access verified | Nov 6 | item 72 |
 | R5 | Lead Coaching Cues | Team Leads | One page: 3–5 excerpts with Listen for / What happened / Coach toward; companion to R1 | Decided | Nov 6 | items 74–75 |
 | R6 | Guide Call Path | Guides | Simple step overview to stay on track mid-call; points to Beacon and the Orbit tool; Plus reminder | Decided | Nov 6 | item 76 |
@@ -182,8 +182,8 @@ Started Nov 6; more owners to add as the package firms up.
 | Specialists in the 25-minute Lead alignment session (R2) | Support small-group case discussion | Ask — approve, modify, or decline | **1st** — builds the Lead capability that supports Guides through the whole rollout |
 | Rotating Specialist pool in the Lead thread during initial rollout (R3, item 85) | Clarify from approved guidance, sized to bandwidth; no response-time promise | Ask — approve, modify, or decline; item 85 still proposed | 2nd — temporary safety net |
 
-### Lead thread Admin — **proposed: Priya, pending confirmation (item 92)**
-Care leadership designates a temporary Admin. Role: coordinate questions and route blockers to owners; track unresolved issues and recurring patterns; circulate verified answers; doesn't personally own every procedural resolution. Thread is for Lead coordination, not a replacement for Guide → Lead support or escalation; not a permanent channel. Earlier notes:
+### Lead thread Admin — **a participating Lead, confirmed during Prepare (items 92–93)**
+Care leadership designates a participating Lead as temporary Admin; no individual is named in the proposal. Role: coordinate questions and route blockers to owners; track unresolved issues and recurring patterns; circulate verified answers; doesn't personally own every procedural resolution. Thread is for Lead coordination, not a replacement for Guide → Lead support or escalation; not a permanent channel. Earlier notes:
 - Monitors unanswered questions.
 - Tags and routes recurring blockers (Orbit reading, permissions, Plus) to coaching, the Call Path, or the right dependency owner.
 - Posts verified updates with a source tag.
