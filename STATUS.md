@@ -29,6 +29,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Rollout Plan Overview | `wn7-rollout-overview.html` (single page; links to the Ownership Map and the plan PDF, so same folder in the ZIP) | **Locked** | 125–126 |
 | Huddle Sequence Slide | `wn7-huddle-slide.html` (source) + `.pdf` (1 widescreen page) | **Locked** | 129–130 |
 | Dana pre-read email | `email/wn7-dana-pre-read-email.md` (not sent; cover for the ZIP) | **Locked** (not sent) | 131–136 |
+| Bonus: Beyond the Rollout (AI extensions) | `interviewer/wn7-ai-extensions.html` + `.pdf` (2 pp; interviewer-facing, optional) | Draft, awaiting review | 140 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
 
 ## Reconciling the plan against what's built
