@@ -14,7 +14,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 ## 2. Where things stand (Nov 7)
 - **Locked:** Resource Overview (`wn7-resource-overview.html` + `assets/ro-*.jpg`, item 128; the huddle-slide card gets its link when the slide is built) · Rollout Plan Overview (`wn7-rollout-overview.html`, item 126) · Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
 - **Still to do, in this order:**
-  1. Huddle Sequence Slide.
+  1. Huddle Sequence Slide: first draft built, `deliverables/wn7-huddle-slide.html` + `.pdf` (item 129), in review. On lock, link it from the Resource Overview's huddle card.
   2. Dana's pre-read email.
   3. Interviewer note.
   4. ZIP packaging.
@@ -28,7 +28,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
   - Each deliverable goes: build a draft → stop for review → targeted fixes → lock.
   - Locked deliverables aren't reopened for cosmetic changes while others are unfinished (item 101).
 - **Logging:**
-  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 128.
+  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 129.
   - Attribution is kept separate: [You], [GPT], [Claude].
   - Drafts are marked `draft`; locks are `position`.
 - **Commits:** end every commit message with the Co-Authored-By / Claude-Session lines used throughout the history. Push to `ccr-312323a1-9vzgbn`. No pull requests unless asked.
@@ -51,7 +51,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 4. Key files
 - `UOPFIN-BTB/STATUS.md`: inventory, organizer reconciliation, and the remaining order of work.
-- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–128). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
+- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–129). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
 - `UOPFIN-BTB/CALL_PATH_AUDIT.md`: the PO-117 source audit and its open gaps.
 - `UOPFIN-BTB/RESOURCES.md`, `LEAD_CASES.md`, `WORKBOOKS.md`, `QUOTES.md`: resource decisions, Case A/B, workbook figures, verified quotes.
 - `TN-UOP-FIN/deliverables/`: all deliverables and print sources.
