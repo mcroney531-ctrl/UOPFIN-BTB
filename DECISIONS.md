@@ -795,3 +795,11 @@ Nov 7. Five-page structure approved. Three logic refinements, no redesign:
 3. **Confirmations (p. 5):** split into "Before pilot launch · required" (Call Path and scenario content; Plus guidance or escalation route; Orbit workflow and access; scenario delivery; Lead alignment and live support route; pilot teams and practice time) and "Not launch blockers · confirm when noted" (recovery and operational measures before evaluation; baseline method and limits before results are interpreted; thread Admin during Prepare; Specialist A and B as capacity allows).
 - **Typeface:** Inter throughout [You]; type sizes rescaled for Inter's wider set. Still 5 pages.
 - Ready for the final package once you've done a last export check. The organizer's 04 Plus row still differs from the PDF (item 98).
+
+### 100. Rollout plan locked — `position` [You]
+Nov 7. `TN-UOP-FIN/deliverables/wn7-rollout-plan.pdf` (5 pages, Inter) is approved and complete. Final timing clarification:
+- **Thread Admin** is now a readiness item, because the thread is used from pilot launch. It's folded into gate condition (4), "Lead alignment, a working support/fallback route, and a designated thread Admin," and into the page 5 launch column.
+- **Specialist approvals** are listed separately, as optional rather than launch blockers: A from Mateo before the Lead meeting, if Specialists attend; B before Specialists join the thread.
+- "Draft for review" removed from the cover and footers; "Proposed design · owner confirmations pending" kept.
+- Account Systems / Product Ops vs. the organizer's broader policy-owner wording: not a contradiction [You]. The PDF names proposed validation partners and leaves final policy authority unconfirmed.
+- Next: the next deliverable. No further polish on this one.
