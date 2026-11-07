@@ -890,3 +890,9 @@ Nov 7. Not locked yet.
 Nov 7. `wn7-practice-scenario.html` approved and locked (refinements in item 113). The JavaScript-off limitation is acceptable: that mode keeps the content and model answers accessible. Test claims stand as Claude's automated suite (93 checks), not independently reproduced; screen-reader testing is still outstanding. Neither blocks locking.
 - **Organizer reconciliation:** the uploaded organizer HTML was the page's starter template. The live plan is in the account data store (v621: four stops, all filled in). The reconciliation is in `STATUS.md`.
 - **Remaining:** the team huddle sequence slide (R8, the only unbuilt learning resource), Dana's pre-read email, the interviewer note, ZIP packaging, then optional polish.
+
+### 115. Resource Overview reconciled — `draft` [You + GPT; Claude build]
+Nov 7. Started from your current file (`resource-package_2.html`), kept its design, and changed only the content. Saved as `TN-UOP-FIN/deliverables/wn7-resource-overview.html`.
+- **Removed:** How the Pieces Fit, Who Owns What, What It Takes to Roll Out, Still open, and the Plus FAQ and Orbit video cards. Those topics move to the Ownership Map Overview and the Rollout Overview, or to one short note.
+- **Structure [GPT, you agreed]:** 01 Lead Resources (Meeting Plan, Quick Reference, Coaching Cues) · 02 Guide Resources (Call Path, Make the Call) · 03 Team Huddle (Huddle Sequence Slide, marked "In development") · 04 Related Plans (Ownership Map Overview, Rollout Overview, both "linked when ready") · a short "Proposed alongside, not part of this package" note (Plus FAQ, Orbit video).
+- **Each card and "See more" panel** now matches its locked deliverable, and the "Why it exists" reasoning is kept and updated. The intro is rewritten around the five-step sequence. The visual placeholders stay until the polish pass.
