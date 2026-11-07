@@ -24,7 +24,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Lead Coaching Cues | `wn7-coaching-cues.pdf` (1 p) + `-print.html` | **Locked** | 108 |
 | Guide Call Path | `wn7-guide-call-path.html` (interactive) + `.pdf` (1 p) + `-print.html` | **Locked** | 111 |
 | Digital practice scenario "Make the Call" | `wn7-practice-scenario.html` | **Locked** | 114 |
-| Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | In review: structure approved, screenshots deferred to visual pass | 115–116 |
+| Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | In review: structure approved, screenshots deferred to visual pass | 115–117 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
 
 ## Reconciling the plan against what's built

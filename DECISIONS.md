@@ -905,3 +905,6 @@ Nov 7. Structure approved; not locked yet.
 - **Meeting plan delivery** is labeled proposed: timing, attendance and Specialist support are confirmed with Care leadership, Workforce and Specialist Care.
 - **Tone [You]:** removed "the existing huddle stays"-style process language; the huddle section now reads as plain description.
 - **Deferred to the visual pass:** real screenshots in place of "Visual TBD." The huddle slide stays "In development" until it's built.
+
+### 117. Related Plans removed from the Resource Overview — `position` [You]
+Nov 7. The Ownership Map Overview and Rollout Overview are separate documents that go alongside the Resource Overview in the ZIP, not sections inside it. Section 04 is removed; the page now has 01 Lead, 02 Guide, 03 Team Huddle, then the "Proposed alongside" note. The proposal note still points to the Rollout Overview, which ships in the same package.
