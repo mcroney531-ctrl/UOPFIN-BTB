@@ -36,7 +36,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ## R2. Team Lead working meeting
 
-- **Length:** 25 minutes (revised from 20, item 79). Proposed working session, subject to Workforce approval. ~7.5 Lead-hours for 18 Leads, plus Specialist time.
+- **Length:** 25 minutes (revised from 20, item 79). Proposed working session, subject to Workforce approval. Runs per rollout wave for that wave's participating Leads (items 92, 94); Specialist time only with Mateo's approval.
 - **Agenda (decided):**
   - 3 min — Situation and WN7 refresher (hard stop at 3; deeper questions go to the cases or follow-up) — includes a short mention that Beacon guidance exists but has been hard to find
   - 9 min — Case discussion and understanding check — case debrief includes the zoom-in: where `BH-4419` and the Orbit serial tool are, and when Guides use each (item 78)

@@ -781,3 +781,9 @@ Nov 7. The draft intervention architecture has been superseded by the locked org
 
 ### 97. Rollout plan, first draft built — `draft` [Claude, for your review]
 Nov 7. `TN-UOP-FIN/deliverables/wn7-rollout-plan.html` (commit 77adfbb), built from organizer stops 03–04, RESOURCES.md and items 88–95. Not reviewed yet. Choices not previously decided are listed in the build report: the `deliverables/` folder, borrowing the organizer's look (the project had no design system yet), the illustrative star mark, the "What's being rolled out" strip, the "will and won't claim" panel, and the closing confirmations list. Source note: the 204 calls are from the Orbit call sample (systematic sample; "eligible" is a retrospective label), not a Quality review.
+
+### 98. Rollout plan moves to a 5-page PDF; source corrections — `draft` [You; Claude build]
+Nov 7. The final format is an executive-facing PDF (target 4–5 pages). Built `TN-UOP-FIN/deliverables/wn7-rollout-plan.pdf` (5 pages, US Letter) from `wn7-rollout-plan-print.html`; the HTML draft is kept as reference. The approved Northstar logo replaces the illustrative mark.
+- **Corrections applied [You]:** the baseline is identified as a systematic Orbit call sample with eligibility classified retrospectively; retrospective Quality review applies "where underlying call evidence is available"; Account Systems and Product Ops validate Plus procedures and transaction-status guidance, with Specialist Care providing operational expertise, and final policy authority is shown as to be confirmed; the 7.5 Lead-hours estimate is removed from RESOURCES.md R2, since Lead alignment now runs in waves.
+- **Page structure:** 1 executive overview · 2 Prepare & Pilot · 3 Observe & Adjust, Expand, Sustain · 4 measurement & accountability · 5 ownership matrix, Specialist approvals, thread, pending confirmations.
+- Stopped for review; not final.
