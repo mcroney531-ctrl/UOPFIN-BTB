@@ -1014,3 +1014,10 @@ Nov 7. One targeted revision of item 131; structure unchanged. About 1,000 words
 4. **What's Included** keeps the three-folder structure with shorter descriptions.
 5. **Closing:** the Priya and Mateo sharing line is removed; it now invites Dana's reaction to the approach and its assumptions.
 - Stopped for review; likely lock next.
+
+### 133. Dana pre-read email locked — `position` [You]
+Nov 7. `TN-UOP-FIN/email/wn7-dana-pre-read-email.md` (about 770 words; not sent) approved and locked after three wording fixes to item 132:
+1. The upset-caller sentence stays: reasonable interpretation that connects the analysis to Dana's original concern.
+2. The diagnosis is softened so it doesn't put the problem mainly on Guide capability: "The gap may involve recognizing the pattern, interpreting the Orbit result, and translating that result into the right recovery action." This leaves room for system and workflow causes.
+3. Modularity: "Guides use the Call Path and individual practice, while Leads use the meeting and coaching materials and introduce the shared sequence through existing huddles." The slide is Lead-facilitated, not handed to Guides.
+- No further cuts toward 650 words; the Leads-first and What's Included sections stay whole. The user may still bring their own tweaks; those will be logged as new items. Next: the interviewer-facing note, separate from Dana's materials.
