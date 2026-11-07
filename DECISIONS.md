@@ -755,3 +755,16 @@ Nov 7. Refinements, not structural changes.
 4. **Sampling and cadence:** deliberately not specified in this proposal; approach, accountability and decision logic are enough at this stage. No longer listed as an open decision.
 5. **Thread Admin [You]:** Priya dropped (she's Manager of General Care, not a Lead). Care leadership designates a participating Lead as temporary Admin, with the specific person confirmed during Prepare. No individual named in the proposal; the role and responsibilities are what matter.
 - Next: verify the ownership model in stop 04, then translate the organizer into the proposal deliverables.
+
+### 94. Ownership-design pass closed — `position` [You]
+Nov 7. Approved as proposed design choices; no new commitments.
+1. **Lead one-pager and Coaching Cues:** Learning owns production and maintenance; Quality and Specialist Care validate relevant operational content. Resolves item 75's open content owner.
+2. **Live Guide support:** Care leadership owns the arrangement; Leads provide first-line support; Workforce validates coverage; Specialist Care confirms escalation availability, subject to capacity. The established fallback route stays.
+3. **Sana delivery:** Learning Operations owns confirmation of assignment, access and delivery, native or via an approved link.
+4. **Lead working meeting:** Learning facilitates; Care leadership ensures participating Leads can attend; Specialist Care supports only with approval.
+5. **Specialist capacity:** Mateo approves separately (a) Specialists in the Lead working meeting and (b) temporary shared-thread support. Neither implies the other.
+6. **Expansion authority:** Care leadership decides whether evidence supports expansion; Workforce approves each wave's composition, timing, scheduled practice coverage and operational feasibility. Both are required. Workforce's row in the partner table updated from "advises" to "approves" to match.
+- **01:** thread TBD replaced: "a participating Lead designated by Care leadership serves as temporary thread Admin during rollout."
+- **03 Pilot observation:** Quality can observe and review live WN7 calls as soon as they occur; sufficient live-call exposure and comparable evidence are needed before performance conclusions or an expansion recommendation, not before observation starts. Continue gate no longer waits on call volume; the Observe & Adjust Proceed gate now references it. Delivery measures still never stand in for demonstrated execution.
+- 03 Expand and Sustain lines aligned (dual approval; Learning updates Lead resources too).
+- Ownership-design pass closed. Next: the proposal deliverables (not started).

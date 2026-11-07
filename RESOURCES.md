@@ -166,7 +166,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ## Ownership and maintenance (R1 and R5) — item 75
 
-- **Content owner:** TBD (candidate: Quality with Specialist Care). **Approval authority:** confirms procedural or Plus guidance. Both resources show owner and last-reviewed date.
+- **Content owner:** Learning (production and maintenance); Quality and Specialist Care validate relevant operational content (item 94). **Approval authority:** confirms procedural or Plus guidance. Both resources show owner and last-reviewed date.
 - **Review triggers:** changes to `BH-4419`, Orbit, Plus handling, or a recurring coaching issue.
 - **Change notification:** a maintenance workflow, not an AI feature. Manual first; basic automated Beacon alerts if supported; AI comparison only as an optional later enhancement. Not part of the Dana intervention — a one-line sustainability note only.
 
@@ -174,7 +174,7 @@ Deliverables you've actually decided on. One entry per resource. Ideas and draft
 
 ## Ownership map (draft — for Dana's "what each would need to own")
 
-Started Nov 6; more owners to add as the package firms up.
+Started Nov 6. Superseded in detail by organizer stop 04 (items 92–94); this map keeps the Specialist asks and history.
 
 ### Mateo Ruiz — Specialist Care (one sign-off conversation, two separate decisions)
 | Request | What it involves | Status | Priority if capacity allows only one |
