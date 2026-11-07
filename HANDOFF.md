@@ -12,12 +12,13 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 - **Tools:** PDFs rebuild with `node TN-UOP-FIN/tools/build-pdfs.js [filter]`. It prints the room left above each page footer, and a negative number means overflow. Shared print CSS lives in `tools/*.css`. Browser test suites are in `tools/tests/`; they use absolute paths under `/home/user/` and Playwright's preinstalled Chromium.
 
 ## 2. Where things stand (Nov 7)
-- **Locked:** Dana pre-read email (`email/wn7-dana-pre-read-email.md`, item 133; not sent; the user may add tweaks) · Huddle Sequence Slide (`wn7-huddle-slide.html` + `.pdf`, item 130) · Resource Overview (`wn7-resource-overview.html` + `assets/ro-*.jpg`, item 128; links all eight files, including the slide) · Rollout Plan Overview (`wn7-rollout-overview.html`, item 126) · Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
+- **Locked:** Huddle Sequence Slide (`wn7-huddle-slide.html` + `.pdf`, item 130) · Resource Overview (`wn7-resource-overview.html` + `assets/ro-*.jpg`, item 128; links all eight files, including the slide) · Rollout Plan Overview (`wn7-rollout-overview.html`, item 126) · Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
+- **In review:** Dana pre-read email (`email/wn7-dana-pre-read-email.md`), reopened at item 134 for the needs-assessment opening; not sent; the user is still reviewing personally.
 - **Still to do, in this order:**
   1. Interviewer note.
   2. ZIP packaging, using the three-folder contract (item 131): 01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources. Relative links between the overviews and deliverables must be updated and re-tested when files move.
   3. Optional visual polish, last.
-- **Deadline pressure:** Dana's email is drafted and locked; the interviewer note and packaging remain.
+- **Deadline pressure:** Dana's email is nearly final (in review); the interviewer note and packaging remain.
 
 ## 3. How we work
 - **Roles and loop:**
@@ -26,7 +27,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
   - Each deliverable goes: build a draft → stop for review → targeted fixes → lock.
   - Locked deliverables aren't reopened for cosmetic changes while others are unfinished (item 101).
 - **Logging:**
-  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 133.
+  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 134.
   - Attribution is kept separate: [You], [GPT], [Claude].
   - Drafts are marked `draft`; locks are `position`.
 - **Commits:** end every commit message with the Co-Authored-By / Claude-Session lines used throughout the history. Push to `ccr-312323a1-9vzgbn`. No pull requests unless asked.
@@ -49,7 +50,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 4. Key files
 - `UOPFIN-BTB/STATUS.md`: inventory, organizer reconciliation, and the remaining order of work.
-- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–133). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
+- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–134). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
 - `UOPFIN-BTB/CALL_PATH_AUDIT.md`: the PO-117 source audit and its open gaps.
 - `UOPFIN-BTB/RESOURCES.md`, `LEAD_CASES.md`, `WORKBOOKS.md`, `QUOTES.md`: resource decisions, Case A/B, workbook figures, verified quotes.
 - `TN-UOP-FIN/deliverables/`: all deliverables and print sources.
