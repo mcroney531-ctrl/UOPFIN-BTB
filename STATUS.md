@@ -28,6 +28,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Ownership Map Overview | `wn7-ownership-map.html` (single page; same folder in the ZIP) | **Locked** | 124 |
 | Rollout Plan Overview | `wn7-rollout-overview.html` (single page; links to the Ownership Map and the plan PDF, so same folder in the ZIP) | **Locked** | 125–126 |
 | Huddle Sequence Slide | `wn7-huddle-slide.html` (source) + `.pdf` (1 widescreen page) | **Locked** | 129–130 |
+| Dana pre-read email | `email/wn7-dana-pre-read-email.md` (not sent; cover for the ZIP) | First draft, in review | 131 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
 
 ## Reconciling the plan against what's built
@@ -49,7 +50,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 ## Suggested order for what's left
 1. **Dana's pre-read email** (orients her to the materials and the recommendation).
 2. **Interviewer note** (draws on DECISIONS.md, CALL_PATH_AUDIT.md and the corrections log).
-3. **ZIP packaging and final export check**, including the `assets/` path (logo and `ro-*.jpg`).
+3. **ZIP packaging and final export check** in three folders (01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources; item 131), with relative links re-tested and `assets/` (logo and `ro-*.jpg`) placed where the HTML expects it.
 4. Optional visual polish, only after everything else is locked (item 101 rule).
 
 ## Carry-forward notes for the final pass

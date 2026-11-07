@@ -993,3 +993,15 @@ Nov 7. `TN-UOP-FIN/deliverables/wn7-huddle-slide.html` + `.pdf` approved and loc
 - Spacing tightened slightly so the extra line fits; still 16:9 with nothing overflowing at 1920×1080 or 1280×720, and the phone layout unchanged. PDF rebuilt (tagged).
 - **Resource Overview:** the huddle card's "In development" badge is removed and the card now links "Open the slide" (HTML) and "PDF version", per item 128. Its test now expects 8 resource links.
 - Suites: huddle slide 32 checks, Resource Overview 26 checks, all passing (Claude's automated suites). All learning resources are now built and locked. Next: Dana's pre-read email.
+
+### 131. Dana pre-read email, first draft — `draft` [You + GPT brief; Claude draft]
+Nov 7. `TN-UOP-FIN/email/wn7-dana-pre-read-email.md`. Not sent. A persuasion and orientation email: it makes the case first (evidence → why more than a video → why Leads first), then navigates the package.
+- **Packaging contract [You]:** the ZIP will have three folders, in order: **01 — Start Here** (Resource Overview, Rollout Plan Overview, Ownership Map Overview) · **02 — Detailed Planning** (full rollout plan PDF) · **03 — Learning Resources** (Lead Meeting Plan, Lead Quick Reference, Coaching Cues, Guide Call Path, Make the Call, Huddle Sequence Slide). The email mirrors it. Files aren't reorganized yet; that happens and is tested at packaging. Note for packaging: the overviews link to each other and to the deliverables by relative path, so those links must be updated and re-tested when files move into folders.
+- **Evidence used (all verified against the packet):** 204 / 76 / 13 / 115 baseline with its sample caveat; 70 of 159 with a recorded serial check, framed as a working diagnosis ("a recorded check can't tell us what the Guide saw or understood"); Sep 22 "which value on the screen counted as the result"; Sep 24 access-or-screen uncertainty; Sep 18 quotes from Asha, Imani, Micah and Priya, flagged as volunteers' own accounts; Marisol, Oct 1 ("five minutes is not a ceiling"; "a reason to believe"); roughly 900 hourly Guides; limited Specialist capacity.
+- **Flags for review [Claude]:**
+  1. The brief attributes "this isn't entirely a training problem" to Micah. Micah didn't say that. His observation is about time lost guessing ("the time on the call nobody sees when they say 'just use the script'"). The not-only-training framing comes from Priya's summary ("a search problem, an eligibility problem, a conversation problem, and a completion problem"). The draft quotes both accurately.
+  2. The email links upset callers (Dana's original ask) to the wrong path via Asha's "If this is another reset, I am done." That's an interpretive bridge; it's a single self-reported example.
+  3. Case B is described as a composite drawn from the call data, so the meeting isn't presented as two real calls.
+  4. Sender is "[Name], Learning Experience Design": the user fills in their name.
+  5. "Log it as Draft in the organizer": the organizer was frozen as the design baseline at item 95, so the draft is logged here, in STATUS.md and in HANDOFF.md instead.
+- Stopped for review; not locked.
