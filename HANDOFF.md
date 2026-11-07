@@ -13,7 +13,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 2. Where things stand (Nov 7)
 - **Locked:** Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
-- **In review:** Resource Overview, `deliverables/wn7-resource-overview.html` (items 115–117). Three sections (Section A Leads, B Guides, C Huddle Support; letters in the small label); the two overviews are separate files in the ZIP. Structure approved; screenshots wait for the visual pass; its links assume it sits next to the deliverables in the ZIP.
+- **In review:** Resource Overview, `deliverables/wn7-resource-overview.html` (items 115–119). Three sections ("Resources for Leads", "Resources for Guides", "Huddle Support", with "Section A/B/C – N resources" in the small label; Guides sits on a soft blue tint); the two overviews are separate files in the ZIP. Structure approved; screenshots wait for the visual pass; its links assume it sits next to the deliverables in the ZIP.
 - **Still to do, in this order:**
   1. Ownership Map Overview (one page).
   2. Rollout Overview (one page).
@@ -31,7 +31,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
   - Each deliverable goes: build a draft → stop for review → targeted fixes → lock.
   - Locked deliverables aren't reopened for cosmetic changes while others are unfinished (item 101).
 - **Logging:**
-  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 118.
+  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 119.
   - Attribution is kept separate: [You], [GPT], [Claude].
   - Drafts are marked `draft`; locks are `position`.
 - **Commits:** end every commit message with the Co-Authored-By / Claude-Session lines used throughout the history. Push to `ccr-312323a1-9vzgbn`. No pull requests unless asked.
@@ -54,7 +54,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 4. Key files
 - `UOPFIN-BTB/STATUS.md`: inventory, organizer reconciliation, and the remaining order of work.
-- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–118). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
+- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–119). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
 - `UOPFIN-BTB/CALL_PATH_AUDIT.md`: the PO-117 source audit and its open gaps.
 - `UOPFIN-BTB/RESOURCES.md`, `LEAD_CASES.md`, `WORKBOOKS.md`, `QUOTES.md`: resource decisions, Case A/B, workbook figures, verified quotes.
 - `TN-UOP-FIN/deliverables/`: all deliverables and print sources.
