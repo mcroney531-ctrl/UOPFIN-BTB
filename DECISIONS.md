@@ -1193,3 +1193,7 @@ Nov 8. "Editorial Plus with selected Engaged Visual elements", applied to the Le
 - **Before/after:** pre-change sources and PDFs are in `TN-UOP-FIN/archive/round2-before/` for side-by-side comparison.
 - **Status:** awaiting the user's visual review; not locked. No packaging.
 - **Coaching Cues markers [You]:** the four move-number circles (Notice, Diagnose, Practice, Commit) were crowding the move titles. They're now 14pt instead of 18pt, with a lighter, thinner ring and a slightly larger gap before the title. The rule is scoped to `.mn` in the shared print layer, so other documents' markers are unchanged. Still 1 page (8px room).
+- **Marker centering [Claude, at the user's request]:** measured at 6× resolution, the numerals were centered horizontally (within 0.2px) but sat about 1.1px high, which is normal for digits in a centered line box. Added 1.6pt top padding (border-box, so the circles stay 14pt). Re-measured: within 0.2px both ways for all four markers; all four circles are identical squares (18.66px CSS). PDF still 1 page.
+
+### 154. Coaching Cues locked (Round 2) — `position` [You]
+Nov 8. `deliverables/wn7-coaching-cues.pdf` (+ `-print.html`) approved with the Round 1 wording (item 148) and the Round 2 visual system (item 153), including the smaller, optically centered move markers. The other four Round 2 resources await the user's call.
