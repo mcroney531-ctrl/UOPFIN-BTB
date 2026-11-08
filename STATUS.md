@@ -30,6 +30,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Huddle Sequence Slide | `wn7-huddle-slide.html` (source) + `.pdf` (1 widescreen page) | **Locked** (Round 1 + Round 2) | 129–130, 150, 153, 155 |
 | Dana pre-read email | `email/wn7-dana-pre-read-email.md` (not sent; cover for the ZIP) | **Locked** (not sent) | 131–136 |
 | Bonus: Beyond the Rollout (AI extensions) | `interviewer/wn7-ai-extensions.html` + `.pdf` (2 pp; interviewer-facing, optional) | Corrections applied; ready to lock | 140, 143 |
+| Needs Assessment & Planning (organizer PDF set) | `wn7-needs-assessment-planning.pdf` (11 pp: cover + the four organizer stops; rebuild kit in `tools/organizer/`) | **Locked** | 158 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
 
 ## Reconciling the plan against what's built
