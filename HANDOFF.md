@@ -11,13 +11,13 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 - **Not reachable from another account:** the Working Organizer artifact and the Claude previews of the deliverables are private to the original account. `STATUS.md` summarizes the organizer's current saved state (v621, four stops, all locked). Every locked design is also fully expressed in the deliverables and in `DECISIONS.md`.
 - **Tools:** PDFs rebuild with `node TN-UOP-FIN/tools/build-pdfs.js [filter]`. It prints the room left above each page footer, and a negative number means overflow. Shared print CSS lives in `tools/*.css`. Browser test suites are in `tools/tests/`; they use absolute paths under `/home/user/` and Playwright's preinstalled Chromium.
 
-## 2. Where things stand (Nov 7)
+## 2. Where things stand (Nov 8)
 - **Locked:** Interviewer Note + Design Decision Log (`interviewer/wn7-behind-the-design.*`, `interviewer/wn7-design-decision-log.*`, item 142; interviewer-only folder) · Dana pre-read email (`email/wn7-dana-pre-read-email.md`, item 136; not sent) · Huddle Sequence Slide (`wn7-huddle-slide.html` + `.pdf`, item 130) · Resource Overview (`wn7-resource-overview.html` + `assets/ro-*.jpg`, item 128; links all eight files, including the slide) · Rollout Plan Overview (`wn7-rollout-overview.html`, item 126) · Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
 - **Still to do, in this order:**
-  1b. Optional bonus "Beyond the Rollout: Long-Term AI Extensions" (item 140): `interviewer/wn7-ai-extensions.html` + `.pdf`, Northstar navy, correction pass applied (item 143), ready to lock; packages with the interviewer materials.
+  1. Optional bonus "Beyond the Rollout: Long-Term AI Extensions" (item 140): `interviewer/wn7-ai-extensions.html` + `.pdf`, Northstar navy, correction pass applied (item 143), ready to lock; packages with the interviewer materials.
   2. ZIP packaging, using the three-folder contract (item 131): 01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources. Relative links between the overviews and deliverables must be updated and re-tested when files move.
   3. Optional visual polish, last.
-- **Deadline pressure:** Dana's email is locked; the interviewer note and packaging remain.
+- **Deadline pressure:** everything for Dana and the interviewers is locked except the optional bonus; ZIP packaging is the main remaining step.
 
 ## 3. How we work
 - **Roles and loop:**
