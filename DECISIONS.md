@@ -1120,3 +1120,10 @@ Nov 8. Three corrections to `interviewer/wn7-ai-extensions.html` / `.pdf`; still
 3. **Citation claim:** the caption "Every statement is cited; where guidance is silent, the assistant says so" is now "Answers cite their approved sources and identify gaps."
 - [Claude] Left as is, flagged: the concept text "What it would look like" still says "with every statement cited and linked to its source." That describes the design intent rather than claiming what the mockup shows; it can be softened to match the caption if wanted.
 - 18 automated checks pass. Ready to lock on the user's OK.
+
+### 144. Wrap-up plan; packaging on hold — `process` [You + GPT]
+Nov 8. Final sequence: (1) **content review** of the Interviewer Note, Decision Log and AI Extensions (accuracy, clarity, narrative strength, fit with the assignment); (2) **visual review** of the actual PDFs (typography, spacing, hierarchy, page breaks, polish); (3) **final corrections** as one consolidated punch list, if needed; (4) **lock and package**: Dana's three folders plus the separate interviewer folder, then retest links and ZIP contents.
+- **Status:** the Interviewer Note and Decision Log are content-locked provisionally (item 142); they're reopened only for punch-list items, not wholesale. AI Extensions is ready for final review (item 143).
+- **ZIP packaging is on hold** until those reviews are complete; files are inspected in their intended presentation form before sign-off.
+- The user may ask for annotation artifacts during review. Copies of the two review pages are now in `TN-UOP-FIN/tools/review/` with a README on refreshing them, so an alt-account session can rebuild them.
+- Usage is tight; HANDOFF.md is kept ready for a mid-review handoff.

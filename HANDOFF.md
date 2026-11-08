@@ -13,11 +13,14 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 2. Where things stand (Nov 8)
 - **Locked:** Interviewer Note + Design Decision Log (`interviewer/wn7-behind-the-design.*`, `interviewer/wn7-design-decision-log.*`, item 142; interviewer-only folder) · Dana pre-read email (`email/wn7-dana-pre-read-email.md`, item 136; not sent) · Huddle Sequence Slide (`wn7-huddle-slide.html` + `.pdf`, item 130) · Resource Overview (`wn7-resource-overview.html` + `assets/ro-*.jpg`, item 128; links all eight files, including the slide) · Rollout Plan Overview (`wn7-rollout-overview.html`, item 126) · Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
-- **Still to do, in this order:**
-  1. Optional bonus "Beyond the Rollout: Long-Term AI Extensions" (item 140): `interviewer/wn7-ai-extensions.html` + `.pdf`, Northstar navy, correction pass applied (item 143), ready to lock; packages with the interviewer materials.
-  2. ZIP packaging, using the three-folder contract (item 131): 01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources. Relative links between the overviews and deliverables must be updated and re-tested when files move.
-  3. Optional visual polish, last.
-- **Deadline pressure:** everything for Dana and the interviewers is locked except the optional bonus; ZIP packaging is the main remaining step.
+- **Wrap-up plan (item 144), in order:**
+  1. **Content review** (user + GPT) of the Interviewer Note, Decision Log and AI Extensions. The Note and Log are content-locked provisionally (item 142); AI Extensions is ready for final review (item 143).
+  2. **Visual review** of the actual PDFs: typography, spacing, hierarchy, page breaks.
+  3. **Final corrections:** the user sends one consolidated punch list. Apply only those items; don't reopen locked work wholesale.
+  4. **Lock and package — ON HOLD until steps 1–3 are done.** Build Dana's three folders (01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources, item 131) plus a separate interviewer folder (Note, Log, AI Extensions). Update and retest every relative link and the `assets/` paths, then check the ZIP contents.
+  5. Optional visual polish, last.
+- **During review** the user may ask for highlight-and-annotate pages; templates and refresh notes are in `TN-UOP-FIN/tools/review/`. Publish with the `downloads` capability.
+- **Rebuild commands:** interviewer docs `python3 interviewer/src/build.py && node tools/build-interviewer-pdfs.js`; AI Extensions `node tools/build-ai-extensions.js`; huddle slide `node tools/build-slide-pdf.js`; print PDFs `node tools/build-pdfs.js`. Tests are in `tools/tests/`.
 
 ## 3. How we work
 - **Roles and loop:**
@@ -26,7 +29,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
   - Each deliverable goes: build a draft → stop for review → targeted fixes → lock.
   - Locked deliverables aren't reopened for cosmetic changes while others are unfinished (item 101).
 - **Logging:**
-  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 143.
+  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 144.
   - Attribution is kept separate: [You], [GPT], [Claude].
   - Drafts are marked `draft`; locks are `position`.
 - **Commits:** end every commit message with the Co-Authored-By / Claude-Session lines used throughout the history. Push to `ccr-312323a1-9vzgbn`. No pull requests unless asked.
@@ -49,7 +52,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 4. Key files
 - `UOPFIN-BTB/STATUS.md`: inventory, organizer reconciliation, and the remaining order of work.
-- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–143). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
+- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–144). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
 - `UOPFIN-BTB/CALL_PATH_AUDIT.md`: the PO-117 source audit and its open gaps.
 - `UOPFIN-BTB/RESOURCES.md`, `LEAD_CASES.md`, `WORKBOOKS.md`, `QUOTES.md`: resource decisions, Case A/B, workbook figures, verified quotes.
 - `TN-UOP-FIN/deliverables/`: all deliverables and print sources.
