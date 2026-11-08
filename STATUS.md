@@ -1,4 +1,4 @@
-# Northstar package: current status (Nov 7)
+# Northstar package: current status (Nov 8)
 
 A single snapshot to share with collaborators who can't see the live organizer.
 
@@ -23,7 +23,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Lead Quick Reference (one-pager) | `wn7-lead-quick-reference.pdf` (1 p) + `-print.html` | **Locked** (Round 1 + Round 2) | 106, 153, 155 |
 | Lead Coaching Cues | `wn7-coaching-cues.pdf` (1 p) + `-print.html` | **Locked** (Round 1 + Round 2) | 108, 148, 153–154 |
 | Guide Call Path | `wn7-guide-call-path.html` (interactive) + `.pdf` (1 p) + `-print.html` | **Locked** (Round 1 + Round 2) | 111, 149, 153, 155 |
-| Digital practice scenario "Make the Call" | `wn7-practice-scenario.html` | **Locked** | 114 |
+| Digital practice scenario "Make the Call" | `wn7-practice-scenario.html` (redesigned version in `UOPFIN-BTB/deliverables/` with `assets/northstar-logo-white.png`; replaces the TN-UOP-FIN copy at packaging) | **Locked** (own design pass) | 114, 156 |
 | Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | Round 1 complete, awaiting Round 2 | 115–121, 127–128, 147 |
 | Ownership Map Overview | `wn7-ownership-map.html` (single page; same folder in the ZIP) | **Locked** | 124 |
 | Rollout Plan Overview | `wn7-rollout-overview.html` (single page; links to the Ownership Map and the plan PDF, so same folder in the ZIP) | **Locked** | 125–126 |
