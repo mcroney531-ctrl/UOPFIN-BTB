@@ -1140,3 +1140,6 @@ Nov 8. **Review process [You]:** every document in the send-off gets **Round 1**
 - **Diff check:** text-only diffs of both files show exactly the five changes and nothing else.
 - **Flag for the user:** the package ships the **PDF** (Dana's email lists "the full WN7 Rollout & Reinforcement Plan (PDF)"); `wn7-rollout-plan.html` was kept as reference (item 98). The two versions differ in places beyond these five edits. Decide before Round 2 which version gets reviewed and shipped, or whether both ship.
 - **Status:** Rollout Plan Round 1 complete, awaiting Round 2. Not locked.
+
+### 146. Lead Meeting Plan, Round 1 — `draft` [You]
+Nov 8. Wording reviewed; one change. Page 2's facilitator opener now reads "of 159 eligible General Care calls with a serial check recorded, 70 (44%) still ended in generic troubleshooting", replacing "with a verified serial" (the carry-forward from item 104). The data records that a check happened, not that the Guide understood the result. The text diff shows only that change. PDF rebuilt; still 3 pages. Round 1 complete, awaiting Round 2.

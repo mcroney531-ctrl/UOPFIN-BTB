@@ -19,7 +19,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Deliverable | Files | Status | Decision |
 |---|---|---|---|
 | Rollout & Reinforcement Plan | `wn7-rollout-plan.pdf` (5 pp) + `-print.html`; interactive `wn7-rollout-plan.html` (kept as reference; which version ships is open, item 145) | Round 1 complete, awaiting Round 2 | 100, 145 |
-| Lead Alignment 25-min meeting plan | `wn7-lead-meeting-plan.pdf` (3 pp) + `-print.html` | **Locked** | 104 |
+| Lead Alignment 25-min meeting plan | `wn7-lead-meeting-plan.pdf` (3 pp) + `-print.html` | Round 1 complete, awaiting Round 2 | 104, 146 |
 | Lead Quick Reference (one-pager) | `wn7-lead-quick-reference.pdf` (1 p) + `-print.html` | **Locked** | 106 |
 | Lead Coaching Cues | `wn7-coaching-cues.pdf` (1 p) + `-print.html` | **Locked** | 108 |
 | Guide Call Path | `wn7-guide-call-path.html` (interactive) + `.pdf` (1 p) + `-print.html` | **Locked** | 111 |
@@ -53,6 +53,5 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 3. Optional visual polish, only after everything else is locked (item 101 rule).
 
 ## Carry-forward notes for the final pass
-- Meeting plan p. 2: "with a verified serial" → "with a serial check recorded" (item 104).
 - Release dependencies to keep visible in the proposal: Care Systems (Orbit result display, General Care access, recovery queue routing), Account Systems / Product Ops (credit not yet `Applied`), Product Ops (eligibility review case follow-up expectation), Learning Operations (Sana delivery), Workforce (practice time), Quality + Specialist Care (model answers and Lead content), Care leadership (fallback when a Lead is unavailable), Mateo (Specialist approvals A and B).
 - Test claims: describe browser checks as Claude's automated suite, not independently reproduced; screen-reader testing has not been done.
