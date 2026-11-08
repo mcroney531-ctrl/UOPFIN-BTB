@@ -29,7 +29,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Rollout Plan Overview | `wn7-rollout-overview.html` (single page; links to the Ownership Map and the plan PDF, so same folder in the ZIP) | **Locked** | 125–126 |
 | Huddle Sequence Slide | `wn7-huddle-slide.html` (source) + `.pdf` (1 widescreen page) | **Locked** | 129–130 |
 | Dana pre-read email | `email/wn7-dana-pre-read-email.md` (not sent; cover for the ZIP) | **Locked** (not sent) | 131–136 |
-| Bonus: Beyond the Rollout (AI extensions) | `interviewer/wn7-ai-extensions.html` + `.pdf` (2 pp; interviewer-facing, optional) | Draft, awaiting review | 140 |
+| Bonus: Beyond the Rollout (AI extensions) | `interviewer/wn7-ai-extensions.html` + `.pdf` (2 pp; interviewer-facing, optional) | Corrections applied; ready to lock | 140, 143 |
 | Shared asset | `assets/northstar-logo-white.png` (must ship next to the HTML files) | — | — |
 
 ## Reconciling the plan against what's built
@@ -45,11 +45,10 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | R7 Plus FAQ in Beacon | Not ours to build | Partner-owned proposal (Content Editor + Plus owner); Learning proposes and hands off. Could be a one-paragraph handoff note in the Dana materials |
 | 04 Ownership | Covered | Inside the rollout plan, page 5 |
 | **Dana's pre-read email** (required by the brief) | Yes (item 133) | Orients Dana to the materials, the recommended direction, and where to look first |
-| **Interviewer note** (required by the brief, separate from Dana's materials) | Revised drafts: Note (5 pp) + Decision Log (5 pp, 23 entries), HTML + PDF (items 137–141), awaiting final review | Approach, harness use, sources, checks and corrections, uncertainties, with concrete examples |
+| **Interviewer note** (required by the brief, separate from Dana's materials) | **Locked**: Note (5 pp) + Decision Log (5 pp, 23 entries), HTML + PDF (items 137–142) | Approach, harness use, sources, checks and corrections, uncertainties, with concrete examples |
 | ZIP packaging | **No** | Two clearly labeled parts: Dana's pre-read, and the interviewer note |
 
 ## Suggested order for what's left
-1. **Interviewer note + Design Decision Log**: Checkpoint B drafts built (item 138); review, then lock.
 2. **ZIP packaging and final export check** in three folders (01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources; item 131), with relative links re-tested and `assets/` (logo and `ro-*.jpg`) placed where the HTML expects it.
 3. Optional visual polish, only after everything else is locked (item 101 rule).
 
