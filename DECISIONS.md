@@ -1107,3 +1107,4 @@ Nov 7. Built from the repository source files (`interviewer/src/`), not reconstr
   - The closing cross-reference paragraph is removed; the footer keeps a link to the Note. Entries renumbered A1–H23.
 - **Checks:** 44 automated checks at desktop and phone widths (verified quotes present, removed lines gone, four harness subsections, Decision/Rationale/Result on every entry, hidden refs present, no visible attribution or log refs, sequential numbering, links resolve, no horizontal scroll). The 76/13/115 of 204 and 70 of 159 figures, the 3 · 9 · 10 · 3 agenda, the Plus requirement, the three branches and the pilot logic are unchanged.
 - Not changed: Dana's email, the three-folder package, locked learning resources, the AI Extensions bonus.
+- **Pull quote [You]:** Priya's quote box now uses the same light-red tint as the "How it evolved" boxes, with the quotation in italics (the attribution line stays upright).
