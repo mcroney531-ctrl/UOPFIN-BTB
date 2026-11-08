@@ -1171,3 +1171,10 @@ Nov 8. One addition to Step 1 · Recognize in both the interactive `wn7-guide-ca
 
 ### 150. Huddle Sequence Slide, Round 1 — `draft` [You]
 Nov 8. Formatting only. In Step 4 · Complete, the closing line now bolds two phrases separately: "Either still open? **Recovery isn't complete.** **Keep the case open.**" The wording and punctuation are unchanged (the text with tags stripped is identical before and after). [Claude] The brief's bold markers didn't come through; the two phrases were taken to be "Recovery isn't complete." and "Keep the case open." PDF rebuilt (1 widescreen page, tagged); the slide suite passes 32/32 (16:9, no overflow, phone layout). Round 1 complete, awaiting Round 2.
+
+### 151. Round 1 closed; Round 2 becomes a shared visual system — `process` [You + GPT]
+Nov 8. **Round 1 is complete across the send-off** (items 145–150; the documents with no listed edits passed Round 1 as is).
+- **Round 2 approach:** instead of polishing each document separately, define one visual system and implement it across a user-specified set of documents. Steps: (1) inventory: the user lists the documents in scope and provides screenshots; anything left out stays untouched · (2) visual audit: recurring elements to target (headers, section treatments, cards, callouts, typography, spacing, tables…) · (3) design system: the shared aesthetic, component rules, and where individual documents may vary · (4) Claude implementation from one consolidated prompt with universal rules, document-specific exceptions and preservation boundaries · (5) validation for consistency, readability and unintended changes.
+- **Principle:** consistent doesn't mean identical. A facilitator guide and a one-page job aid should feel like the same Northstar family without forcing the same structure.
+- **Exception:** Make the Call (the practice scenario) is out of scope and gets its own separate design pass.
+- No changes until the system is specified. Packaging is still on hold.
