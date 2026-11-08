@@ -47,11 +47,10 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | 04 Ownership | Covered | Inside the rollout plan, page 5 |
 | **Dana's pre-read email** (required by the brief) | Yes (item 133) | Orients Dana to the materials, the recommended direction, and where to look first |
 | **Interviewer note** (required by the brief, separate from Dana's materials) | **Locked**: Note (5 pp) + Decision Log (5 pp, 23 entries), HTML + PDF (items 137–142) | Approach, harness use, sources, checks and corrections, uncertainties, with concrete examples |
-| ZIP packaging | **No** | Two clearly labeled parts: Dana's pre-read, and the interviewer note |
+| ZIP packaging | **Yes** (item 159) | `TN-UOP-FIN/submission/WN7 Proposal Package.zip` (01 — Proposal, 02 — UOP) + `Dana Email Draft.docx` |
 
 ## Suggested order for what's left
-2. **ZIP packaging and final export check** in three folders (01 — Start Here · 02 — Detailed Planning · 03 — Learning Resources; item 131), with relative links re-tested and `assets/` (logo and `ro-*.jpg`) placed where the HTML expects it.
-3. Optional visual polish, only after everything else is locked (item 101 rule).
+Packaging is complete (item 159): `TN-UOP-FIN/submission/WN7 Proposal Package.zip` (01 — Proposal · 02 — UOP) and `Dana Email Draft.docx`. Remaining: only what the user flags on review.
 
 ## Carry-forward notes for the final pass
 - Release dependencies to keep visible in the proposal: Care Systems (Orbit result display, General Care access, recovery queue routing), Account Systems / Product Ops (credit not yet `Applied`), Product Ops (eligibility review case follow-up expectation), Learning Operations (Sana delivery), Workforce (practice time), Quality + Specialist Care (model answers and Lead content), Care leadership (fallback when a Lead is unavailable), Mateo (Specialist approvals A and B).
