@@ -1246,3 +1246,6 @@ Nov 8. After opening the Resource Overview, the user saw blank thumbnails and an
 
 ### 161. Package folder names use plain hyphens — `position` [You; Claude implementation]
 Nov 8. The user's links still failed; confirmed cause: the Resource Overview was opened straight from inside the ZIP, so the linked files weren't on disk (extract first, then open). To remove a second, latent risk (Windows' built-in extractor can mangle non-ASCII names such as "—", which would break links that pass through those folders), folder names are now ASCII-only: `01 - Proposal/` (`00 - Start Here/`, `01 - Needs Assessment and Planning/`, `02 - Learning Resources/`) and `02 - UOP Interviewer Notes/`. File names unchanged. The Dana email and Decision Log H22 follow the new names (Log rebuilt, still 5 pages). Same QA as item 160 on a fresh extraction, same results: 16 files, no non-ASCII names; offline links 85/85; all 6 pages show their images when opened alone; suites unchanged; Word file 3 pages.
+
+### 162. Dana email signed — `position` [You]
+Nov 8. The sign-off placeholder "[Name]" is now "Trevor Newsome" in `email/wn7-dana-pre-read-email.md` and `submission/Dana Email Draft.docx` (rebuilt; still 3 pages, no placeholders left). Nothing else changed; the ZIP is untouched.
