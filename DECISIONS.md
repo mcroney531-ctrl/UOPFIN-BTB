@@ -1158,3 +1158,6 @@ Nov 8. Nine review items on `TN-UOP-FIN/deliverables/wn7-resource-overview.html`
 - **Checks:** the 26-check Resource Overview suite passes (desktop and phone: overlays open and close, focus returns, links resolve, no horizontal scroll); the text diff shows only the nine edits.
 - **Status:** Round 1 complete, awaiting Round 2. Not final approval.
 - **Preview links [Claude, after the user still couldn't open them]:** the cause is the claude.ai viewer, which sandboxes pages and blocks the new-tab links, not the file type. The artifact preview now uses a preview-only copy (`tools/review/resource-overview-preview.html`) that opens each deliverable in an in-page viewer with a Close button; the PDF links show their `-print.html` page versions, which render inside the page. All 8 tested: each loads the right document. The shipped `deliverables/wn7-resource-overview.html` is unchanged and keeps normal new-tab links for the ZIP.
+
+### 148. Coaching Cues, Round 1 — `draft` [You]
+Nov 8. One change. Under 1 · Notice, the sample Lead line "I can see the check ran. I can't tell what you saw next. Tell me." is now "I can see the check ran, but I can't tell what you saw next. Can you walk me through it?" The text diff shows only that change. PDF rebuilt (`node tools/build-pdfs.js coaching-cues`); still 1 page, fits. Round 1 complete, awaiting Round 2.
