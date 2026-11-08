@@ -18,7 +18,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 
 | Deliverable | Files | Status | Decision |
 |---|---|---|---|
-| Rollout & Reinforcement Plan | `wn7-rollout-plan.pdf` (5 pp) + `-print.html` (the earlier long HTML draft `wn7-rollout-plan.html` is kept for reference only) | **Locked** | 100 |
+| Rollout & Reinforcement Plan | `wn7-rollout-plan.pdf` (5 pp) + `-print.html`; interactive `wn7-rollout-plan.html` (kept as reference; which version ships is open, item 145) | Round 1 complete, awaiting Round 2 | 100, 145 |
 | Lead Alignment 25-min meeting plan | `wn7-lead-meeting-plan.pdf` (3 pp) + `-print.html` | **Locked** | 104 |
 | Lead Quick Reference (one-pager) | `wn7-lead-quick-reference.pdf` (1 p) + `-print.html` | **Locked** | 106 |
 | Lead Coaching Cues | `wn7-coaching-cues.pdf` (1 p) + `-print.html` | **Locked** | 108 |

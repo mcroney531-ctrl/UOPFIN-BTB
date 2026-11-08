@@ -1127,3 +1127,16 @@ Nov 8. Final sequence: (1) **content review** of the Interviewer Note, Decision 
 - **ZIP packaging is on hold** until those reviews are complete; files are inspected in their intended presentation form before sign-off.
 - The user may ask for annotation artifacts during review. Copies of the two review pages are now in `TN-UOP-FIN/tools/review/` with a README on refreshing them, so an alt-account session can rebuild them.
 - Usage is tight; HANDOFF.md is kept ready for a mid-review handoff.
+
+### 145. Two-round final review; Rollout Plan Round 1 — `draft` [You + GPT review; Claude applied]
+Nov 8. **Review process [You]:** every document in the send-off gets **Round 1** (wording, clarity, accuracy, terminology, small contextual additions) before any document gets **Round 2** (structure, hierarchy, layout, visual enhancements). ZIP packaging waits until both rounds are done. Previously locked documents are reopened only for these review edits.
+- **Rollout Plan, Round 1: five changes**, applied to both `wn7-rollout-plan.html` (the interactive HTML the review was done on) and `wn7-rollout-plan-print.html` → `wn7-rollout-plan.pdf` (the 5-page PDF named in Dana's email):
+  1. Gate legend: "At each decision gate: Proceed · Adjust · Pause" (HTML legend; in the PDF, the page-1 legend line now opens with the same words).
+  2. Customer recovery "Shows": "Whether the recovery was documented as complete. Repeat contacts may indicate whether the resolution held." (In the PDF: "Shows whether the recovery was documented as complete; repeat contacts may indicate whether the resolution held.")
+  3. Heading: "What the Evidence Can (and Can't) Tell Us"; the check and cross content is unchanged.
+  4. Heading: "Who owns what" → "Responsibilities Across the Rollout". The HTML nav label "Ownership & reinforcement" is unchanged.
+  5. The thread intro paragraph is added as the first paragraph inside the "Temporary shared Lead thread" card, before the Admin details. **Duplication check:** the neighboring Specialist card covers only Mateo's approval B ("clarify from approved guidance"), not the thread's purpose, so no transition edit was needed. **Placement:** the thread and Specialist boxes sit side by side in both versions, so a paragraph outside the card would have broken that two-column layout; inside the card it still reads immediately before the thread's details. Admin responsibilities and boundaries are unchanged.
+- **PDF fit (no content change):** the new paragraph pushed page 5 about 42px over its footer. Fixed with layout-only adjustments on that page: the two boxes rebalanced (1 : 1.25) and the responsibilities table's row padding reduced from 2.2pt to 1.5pt. Room above the footer on pages 1–5: 63, 24, 16, 17, 8 px. Still 5 pages.
+- **Diff check:** text-only diffs of both files show exactly the five changes and nothing else.
+- **Flag for the user:** the package ships the **PDF** (Dana's email lists "the full WN7 Rollout & Reinforcement Plan (PDF)"); `wn7-rollout-plan.html` was kept as reference (item 98). The two versions differ in places beyond these five edits. Decide before Round 2 which version gets reviewed and shipped, or whether both ship.
+- **Status:** Rollout Plan Round 1 complete, awaiting Round 2. Not locked.
