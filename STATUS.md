@@ -22,7 +22,7 @@ The Working Organizer artifact holds only its built-in starter content in the pa
 | Lead Alignment 25-min meeting plan | `wn7-lead-meeting-plan.pdf` (3 pp) + `-print.html` | Round 1 complete, awaiting Round 2 | 104, 146 |
 | Lead Quick Reference (one-pager) | `wn7-lead-quick-reference.pdf` (1 p) + `-print.html` | **Locked** | 106 |
 | Lead Coaching Cues | `wn7-coaching-cues.pdf` (1 p) + `-print.html` | Round 1 complete, awaiting Round 2 | 108, 148 |
-| Guide Call Path | `wn7-guide-call-path.html` (interactive) + `.pdf` (1 p) + `-print.html` | **Locked** | 111 |
+| Guide Call Path | `wn7-guide-call-path.html` (interactive) + `.pdf` (1 p) + `-print.html` | Round 1 complete, awaiting Round 2 | 111, 149 |
 | Digital practice scenario "Make the Call" | `wn7-practice-scenario.html` | **Locked** | 114 |
 | Resource Overview | `wn7-resource-overview.html` (links to the deliverables by relative path; must sit in the same folder in the ZIP) | Round 1 complete, awaiting Round 2 | 115–121, 127–128, 147 |
 | Ownership Map Overview | `wn7-ownership-map.html` (single page; same folder in the ZIP) | **Locked** | 124 |
