@@ -13,7 +13,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 2. Where things stand (Nov 8)
 - **Locked:** Interviewer Note + Design Decision Log (`interviewer/wn7-behind-the-design.*`, `interviewer/wn7-design-decision-log.*`, item 142; interviewer-only folder) · Dana pre-read email (`email/wn7-dana-pre-read-email.md`, item 136; not sent) · Huddle Sequence Slide (`wn7-huddle-slide.html` + `.pdf`, item 130) · Resource Overview (`wn7-resource-overview.html` + `assets/ro-*.jpg`, item 128; links all eight files, including the slide) · Rollout Plan Overview (`wn7-rollout-overview.html`, item 126) · Ownership Map Overview (`wn7-ownership-map.html`, item 124) · Rollout plan PDF · Lead meeting plan · Lead Quick Reference · Coaching Cues · Guide Call Path (HTML + PDF) · Make the Call practice scenario.
-- **Final review process (item 145):** Round 1 (wording, accuracy, terminology, small additions) for every document, then Round 2 (structure, hierarchy, layout, visuals) for every document; then packaging. Apply only the edits the user sends for each round; preserve everything else and diff-check. **Round 1 is complete** (items 145–150). **Round 2 (item 151):** one shared visual system applied to a user-specified set of documents (the user sends a list and screenshots; GPT and the user define the system; Claude implements from one consolidated prompt). Make the Call is excluded and gets its own design pass. No visual changes until the system arrives.
+- **Final review process (item 145):** Round 1 (wording, accuracy, terminology, small additions) for every document, then Round 2 (structure, hierarchy, layout, visuals) for every document; then packaging. Apply only the edits the user sends for each round; preserve everything else and diff-check. **Round 1 is complete** (items 145–150). **Round 2 (item 151):** one shared visual system applied to a user-specified set of documents (the user sends a list and screenshots; GPT and the user define the system; Claude implements from one consolidated prompt). Make the Call is excluded and gets its own design pass. System applied to the five in-scope resources (item 153) via `tools/ns-system/apply.py` (re-run after edits, then rebuild PDFs); before-copies in `archive/round2-before/`; awaiting the user's visual review.
 - **Wrap-up plan (item 144), in order:**
   1. **Content review** (user + GPT) of the Interviewer Note, Decision Log and AI Extensions. The Note and Log are content-locked provisionally (item 142); AI Extensions is ready for final review (item 143).
   2. **Visual review** of the actual PDFs: typography, spacing, hierarchy, page breaks.
@@ -30,7 +30,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
   - Each deliverable goes: build a draft → stop for review → targeted fixes → lock.
   - Locked deliverables aren't reopened for cosmetic changes while others are unfinished (item 101).
 - **Logging:**
-  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 152.
+  - Every decision goes into `UOPFIN-BTB/DECISIONS.md` as the next numbered item. The last one is 153.
   - Attribution is kept separate: [You], [GPT], [Claude].
   - Drafts are marked `draft`; locks are `position`.
 - **Commits:** end every commit message with the Co-Authored-By / Claude-Session lines used throughout the history. Push to `ccr-312323a1-9vzgbn`. No pull requests unless asked.
@@ -53,7 +53,7 @@ For a fresh Claude Code session (or another account) taking over mid-project. Re
 
 ## 4. Key files
 - `UOPFIN-BTB/STATUS.md`: inventory, organizer reconciliation, and the remaining order of work.
-- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–152). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
+- `UOPFIN-BTB/DECISIONS.md`: the full decision history (items 1–153). Most relevant now: 87–100 (rollout), 92–94 (ownership), 101 (workflow rule), 104–114 (deliverable locks).
 - `UOPFIN-BTB/CALL_PATH_AUDIT.md`: the PO-117 source audit and its open gaps.
 - `UOPFIN-BTB/RESOURCES.md`, `LEAD_CASES.md`, `WORKBOOKS.md`, `QUOTES.md`: resource decisions, Case A/B, workbook figures, verified quotes.
 - `TN-UOP-FIN/deliverables/`: all deliverables and print sources.
