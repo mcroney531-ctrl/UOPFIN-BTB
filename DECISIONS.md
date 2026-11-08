@@ -1143,3 +1143,17 @@ Nov 8. **Review process [You]:** every document in the send-off gets **Round 1**
 
 ### 146. Lead Meeting Plan, Round 1 — `draft` [You]
 Nov 8. Wording reviewed; one change. Page 2's facilitator opener now reads "of 159 eligible General Care calls with a serial check recorded, 70 (44%) still ended in generic troubleshooting", replacing "with a verified serial" (the carry-forward from item 104). The data records that a check happened, not that the Guide understood the result. The text diff shows only that change. PDF rebuilt; still 3 pages. Round 1 complete, awaiting Round 2.
+
+### 147. Resource Overview, Round 1 — `draft` [You + GPT review; Claude applied]
+Nov 8. Nine review items on `TN-UOP-FIN/deliverables/wn7-resource-overview.html` (one self-contained HTML; no separate PDF). Underlying resources untouched.
+1. Intro: the sequence "Recognize, Verify, Decide, Complete, Explain & Document" is bolded inline; wording unchanged.
+2. Lead Meeting Plan overlay: "Run of show:" is now a bold "**Time Breakdown:**"; the 3 / 9 / 10 / 3 split is unchanged.
+3. Lead Meeting Plan overlay: "**Leads leave with four actions:**" is bolded; the actions stay regular weight.
+4. All six overlays: a "What" label (the same `flow-label` class as "Why", so identical type, caps, color and spacing) sits before each overlay's description, under the title. None existed before; no duplicates.
+5. Quick Reference overlay: "**Team Leads only.**" bolded.
+6. Coaching Cues overlay: "**Notice, Diagnose, Practice, Commit**" bolded; "Four moves:" and the rest stay regular.
+7. Call Path overlay description: now "A five-step in-call decision guide with a separate path for each Orbit result: Eligible, Not eligible, or No clear result." **Flag:** the Call Path *card* on the main page still uses the old line ("What do I do next? The five steps…"). The brief scoped the change to the overlay; the user can decide whether the card should match.
+8. Practice overlay: "**recognize and verify, decide, then explain and document**" bolded; punctuation kept.
+9. **Deliverable links:** all 8 `Open…` links are relative paths to the right files, and every target exists (`wn7-lead-meeting-plan.pdf`, `wn7-lead-quick-reference.pdf`, `wn7-coaching-cues.pdf`, `wn7-guide-call-path.html`, `wn7-guide-call-path.pdf`, `wn7-practice-scenario.html`, `wn7-huddle-slide.html`, `wn7-huddle-slide.pdf`). In a standalone browser test, the three HTML targets open in a new tab with the right titles; the five PDFs are valid PDF files with the expected page counts (headless Chromium downloads PDFs rather than displaying them, so a PDF can't be tab-tested there). **Cause in the preview:** the claude.ai artifact was missing `wn7-huddle-slide.html` and `.pdf` (uploaded before the slide existed) and held an older meeting-plan PDF. Those files are now uploaded, so every link has a served destination. Whether the artifact viewer allows a sandboxed page to open new tabs can't be tested from here; if links still don't open in the preview, that's a viewer limitation, and they work in the standalone/ZIP version. In the ZIP, the overview must stay in the same folder as these files (or the links change during packaging).
+- **Checks:** the 26-check Resource Overview suite passes (desktop and phone: overlays open and close, focus returns, links resolve, no horizontal scroll); the text diff shows only the nine edits.
+- **Status:** Round 1 complete, awaiting Round 2. Not final approval.
